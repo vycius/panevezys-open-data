@@ -1,0 +1,5129 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3792009,55.73806339999999 ]
+    },
+    "properties": {
+    "Nr":1,
+    "Adresas":"Senamiesčio g. 57, Panevėžys",
+    "Bylos Nr.":"27-194-03",
+    "Prašymo data":"2003-09-29 00:00",
+    "Šeimos narių sk.":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3548139,55.7319778 ]
+    },
+    "properties": {
+    "Nr":2,
+    "Adresas":"A. Smetonos g. 47-7, Panevėžys",
+    "Bylos Nr.":"27-38-05",
+    "Prašymo data":"2005-06-08 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3648043,55.7388474 ]
+    },
+    "properties": {
+    "Nr":3,
+    "Adresas":"Marijonų g. 36-83, Panevėžys",
+    "Bylos Nr.":"27-43-05",
+    "Prašymo data":"2005-07-15 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3648043,55.7388474 ]
+    },
+    "properties": {
+    "Nr":4,
+    "Adresas":"Marijonų g. 36-56, Panevėžys",
+    "Bylos Nr.":"27-46-05",
+    "Prašymo data":"2005-08-16 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3854071,55.725663 ]
+    },
+    "properties": {
+    "Nr":5,
+    "Adresas":"Aukštaičių g. 84-27, Panevėžys",
+    "Bylos Nr.":"27-52-05",
+    "Prašymo data":"2005-09-12 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3458539,55.7172551 ]
+    },
+    "properties": {
+    "Nr":6,
+    "Adresas":"Margirio g. 15-5, Panevėžys",
+    "Bylos Nr.":"27-75-05",
+    "Prašymo data":"2005-12-28 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3549984,55.7392571 ]
+    },
+    "properties": {
+    "Nr":7,
+    "Adresas":"Šiaulių g. 3B, Panevėžys",
+    "Bylos Nr.":"27-3-06",
+    "Prašymo data":"2006-01-25 00:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3600878,55.7220009 ]
+    },
+    "properties": {
+    "Nr":8,
+    "Adresas":"Sodų g. 50-77, Panevėžys",
+    "Bylos Nr.":"27-7-06",
+    "Prašymo data":"2006-02-21 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":9,
+    "Adresas":"Marijonų g. 49-22, Panevėžys",
+    "Bylos Nr.":"27-17-06",
+    "Prašymo data":"2006-04-20 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3305158,55.726328 ]
+    },
+    "properties": {
+    "Nr":10,
+    "Adresas":"Kniaudiškių g. 34-36, Panevėžys",
+    "Bylos Nr.":"27-32-06",
+    "Prašymo data":"2006-06-01 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.0480564,54.3836771 ]
+    },
+    "properties": {
+    "Nr":11,
+    "Adresas":"Ulonų g. 8A, Alytus",
+    "Bylos Nr.":"27-38-06",
+    "Prašymo data":"2006-06-14 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3601231,55.7424279 ]
+    },
+    "properties": {
+    "Nr":12,
+    "Adresas":"Vilties g. 6-70, Panevėžys",
+    "Bylos Nr.":"27-42-06",
+    "Prašymo data":"2006-07-03 00:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3820439,55.7266754 ]
+    },
+    "properties": {
+    "Nr":13,
+    "Adresas":"Algirdo g. 90-504A, Panevėžys",
+    "Bylos Nr.":"27-50-06",
+    "Prašymo data":"2006-08-16 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3546091,55.7218859 ]
+    },
+    "properties": {
+    "Nr":14,
+    "Adresas":"Vysk. K. Paltaroko g. 20-411, Panevėžys",
+    "Bylos Nr.":"27-59-06",
+    "Prašymo data":"2006-09-15 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3534769,55.7335568 ]
+    },
+    "properties": {
+    "Nr":15,
+    "Adresas":"A. Mackevičiaus g. 28-1, Panevėžys",
+    "Bylos Nr.":"27-62-06",
+    "Prašymo data":"2006-09-21 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3546091,55.7218859 ]
+    },
+    "properties": {
+    "Nr":16,
+    "Adresas":"Vysk. K. Paltaroko g. 20-415, Panevėžys",
+    "Bylos Nr.":"27-71-06",
+    "Prašymo data":"2006-10-16 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3546091,55.7218859 ]
+    },
+    "properties": {
+    "Nr":17,
+    "Adresas":"Vysk. K. Paltaroko g. 20-410, Panevėžys",
+    "Bylos Nr.":"27-80-06",
+    "Prašymo data":"2006-11-08 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3374468,55.726522 ]
+    },
+    "properties": {
+    "Nr":18,
+    "Adresas":"Žvaigždžių g. 5-34, Panevėžys",
+    "Bylos Nr.":"27-83-06",
+    "Prašymo data":"2006-11-16 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3839819,55.7268276 ]
+    },
+    "properties": {
+    "Nr":19,
+    "Adresas":"Velžio kel. 16, Panevėžys",
+    "Bylos Nr.":"27-95-06",
+    "Prašymo data":"2006-12-20 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3307322,55.7328376 ]
+    },
+    "properties": {
+    "Nr":20,
+    "Adresas":"Statybininkų g. 42-2, Panevėžys",
+    "Bylos Nr.":"27-99-06",
+    "Prašymo data":"2006-12-27 00:00",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3765546,55.7272696 ]
+    },
+    "properties": {
+    "Nr":21,
+    "Adresas":"Vilniaus g. 44-3, Panevėžys",
+    "Bylos Nr.":"27-12-07",
+    "Prašymo data":"2007-02-13 00:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3642597,55.74172 ]
+    },
+    "properties": {
+    "Nr":22,
+    "Adresas":"Vilties g. 22-18, Panevėžys",
+    "Bylos Nr.":"27-21-07",
+    "Prašymo data":"2007-02-22 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3187185,55.7324596 ]
+    },
+    "properties": {
+    "Nr":23,
+    "Adresas":"Ateities g. 20-22, Panevėžys",
+    "Bylos Nr.":"27-26-07",
+    "Prašymo data":"2007-03-05 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3661686,55.740638 ]
+    },
+    "properties": {
+    "Nr":24,
+    "Adresas":"Liepų al. 17-32, Panevėžys",
+    "Bylos Nr.":"27-25-07",
+    "Prašymo data":"2007-03-05 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3507621,55.731965 ]
+    },
+    "properties": {
+    "Nr":25,
+    "Adresas":"Vasario 16-osios g. 45, Panevėžys",
+    "Bylos Nr.":"27-33-07",
+    "Prašymo data":"2007-03-20 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3523661,55.7436547 ]
+    },
+    "properties": {
+    "Nr":26,
+    "Adresas":"Prekybos g. 7-27, Panevėžys",
+    "Bylos Nr.":"27-42-07",
+    "Prašymo data":"2007-04-12 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509285,55.7170591 ]
+    },
+    "properties": {
+    "Nr":27,
+    "Adresas":"Nendrės g. 4-18, Panevėžys",
+    "Bylos Nr.":"27-44-07",
+    "Prašymo data":"2007-04-19 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3577404,55.7243465 ]
+    },
+    "properties": {
+    "Nr":28,
+    "Adresas":"Aldonos g. 5-28, Panevėžys",
+    "Bylos Nr.":"27-53-07",
+    "Prašymo data":"2007-05-28 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3489807,55.7508102 ]
+    },
+    "properties": {
+    "Nr":29,
+    "Adresas":"Rožių g. 82, Panevėžys",
+    "Bylos Nr.":"27-55-07",
+    "Prašymo data":"2007-05-30 00:00",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.38101,55.7158078 ]
+    },
+    "properties": {
+    "Nr":30,
+    "Adresas":"Staniūnų g. 72-510A, Panevėžys",
+    "Bylos Nr.":"27-57-07",
+    "Prašymo data":"2007-06-07 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3669528,55.71800529999999 ]
+    },
+    "properties": {
+    "Nr":31,
+    "Adresas":"Beržų g. 17-107, Panevėžys",
+    "Bylos Nr.":"27-58-07",
+    "Prašymo data":"2007-06-11 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3333471,55.7293396 ]
+    },
+    "properties": {
+    "Nr":32,
+    "Adresas":"F. Vaitkaus g. 2-36, Panevėžys",
+    "Bylos Nr.":"27-61-07",
+    "Prašymo data":"2007-06-19 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.38101,55.7158078 ]
+    },
+    "properties": {
+    "Nr":33,
+    "Adresas":"Staniūnų g. 72-533A, Panevėžys",
+    "Bylos Nr.":"27-62-07",
+    "Prašymo data":"2007-06-21 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3293493,55.731147 ]
+    },
+    "properties": {
+    "Nr":34,
+    "Adresas":"Statybininkų g. 13-12, Panevėžys",
+    "Bylos Nr.":"27-64-07",
+    "Prašymo data":"2007-06-22 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3524815,55.7253845 ]
+    },
+    "properties": {
+    "Nr":35,
+    "Adresas":"Suvalkų g. 5-1, Panevėžys",
+    "Bylos Nr.":"27-65-07",
+    "Prašymo data":"2007-06-26 00:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":36,
+    "Adresas":"Ainių g. 20ABC, Panevėžys",
+    "Bylos Nr.":"27-72-07",
+    "Prašymo data":"2007-07-16 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3812822,55.7171525 ]
+    },
+    "properties": {
+    "Nr":37,
+    "Adresas":"Staniūnų g. 73-53, Panevėžys",
+    "Bylos Nr.":"27-93-07",
+    "Prašymo data":"2007-09-19 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3635281,55.7523718 ]
+    },
+    "properties": {
+    "Nr":38,
+    "Adresas":"Eglyno g. 9A-1, Panevėžys",
+    "Bylos Nr.":"27-97-07",
+    "Prašymo data":"2007-09-25 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.325023,55.7331838 ]
+    },
+    "properties": {
+    "Nr":39,
+    "Adresas":"Dariaus ir Girėno g. 18-73, Panevėžys",
+    "Bylos Nr.":"27-98-07",
+    "Prašymo data":"2007-10-02 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.324206,55.74169879999999 ]
+    },
+    "properties": {
+    "Nr":40,
+    "Adresas":"J. Janonio g. 10-6, Panevėžys",
+    "Bylos Nr.":"27-102-07",
+    "Prašymo data":"2007-10-08 00:00",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3844648,55.7262312 ]
+    },
+    "properties": {
+    "Nr":41,
+    "Adresas":"Aukštaičių g. 89-100, Panevėžys",
+    "Bylos Nr.":"27-106-07",
+    "Prašymo data":"2007-10-15 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3196933,55.732947 ]
+    },
+    "properties": {
+    "Nr":42,
+    "Adresas":"Ateities g. 18-27, Panevėžys",
+    "Bylos Nr.":"27-107-07",
+    "Prašymo data":"2007-10-15 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3820467,55.7172665 ]
+    },
+    "properties": {
+    "Nr":43,
+    "Adresas":"Staniūnų g. 75-123, Panevėžys",
+    "Bylos Nr.":"27-111-07",
+    "Prašymo data":"2007-10-25 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3529514,55.7424496 ]
+    },
+    "properties": {
+    "Nr":44,
+    "Adresas":"Radviliškio g. 13, Panevėžys",
+    "Bylos Nr.":"27-113-07",
+    "Prašymo data":"2007-10-26 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":45,
+    "Adresas":"Nemuno g. 12-121, Panevėžys",
+    "Bylos Nr.":"27-120-07",
+    "Prašymo data":"2007-11-16 00:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3546091,55.7218859 ]
+    },
+    "properties": {
+    "Nr":46,
+    "Adresas":"Vysk. K. Paltaroko g. 20-516, Panevėžys",
+    "Bylos Nr.":"27-124-07",
+    "Prašymo data":"2007-11-28 00:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3690766,55.7178884 ]
+    },
+    "properties": {
+    "Nr":47,
+    "Adresas":"Beržų g. 23-3, Panevėžys",
+    "Bylos Nr.":"27-128-07",
+    "Prašymo data":"2007-12-06 00:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3654012,55.7177613 ]
+    },
+    "properties": {
+    "Nr":48,
+    "Adresas":"Ramygalos g. 96-26, Panevėžys",
+    "Bylos Nr.":"27-131-07",
+    "Prašymo data":"2007-12-11 00:00",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3693009,55.7384328 ]
+    },
+    "properties": {
+    "Nr":49,
+    "Adresas":"Smėlynės g. 51-2, Panevėžys",
+    "Bylos Nr.":"27-136-07",
+    "Prašymo data":"2007-12-18 00:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3534769,55.7335568 ]
+    },
+    "properties": {
+    "Nr":50,
+    "Adresas":"A. Mackevičiaus g. 28-1, Panevėžys",
+    "Bylos Nr.":"27-5-08",
+    "Prašymo data":"2008-01-18 09:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3192745,55.72213110000001 ]
+    },
+    "properties": {
+    "Nr":51,
+    "Adresas":"Molainių g. 92-3, Panevėžys",
+    "Bylos Nr.":"27-6-08",
+    "Prašymo data":"2008-01-21 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3577404,55.7243465 ]
+    },
+    "properties": {
+    "Nr":52,
+    "Adresas":"Aldonos g. 5-7, Panevėžys",
+    "Bylos Nr.":"27-12-08",
+    "Prašymo data":"2008-01-29 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3648657,55.74161489999999 ]
+    },
+    "properties": {
+    "Nr":53,
+    "Adresas":"Vilties g. 24-32, Panevėžys",
+    "Bylos Nr.":"27-18-08",
+    "Prašymo data":"2008-02-05 09:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3866304,55.7233751 ]
+    },
+    "properties": {
+    "Nr":54,
+    "Adresas":"Beržų g. 51-63, Panevėžys",
+    "Bylos Nr.":"27-20-08",
+    "Prašymo data":"2008-02-06 09:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3339507,55.7224976 ]
+    },
+    "properties": {
+    "Nr":55,
+    "Adresas":"Molainių g. 8-22, Panevėžys",
+    "Bylos Nr.":"27-22-08",
+    "Prašymo data":"2008-02-07 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3543233,55.7414664 ]
+    },
+    "properties": {
+    "Nr":56,
+    "Adresas":"Pušaloto g. 10A, Panevėžys",
+    "Bylos Nr.":"27-29-08",
+    "Prašymo data":"2008-02-21 09:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3657301,55.7382566 ]
+    },
+    "properties": {
+    "Nr":57,
+    "Adresas":"Liepų al. 7-51, Panevėžys",
+    "Bylos Nr.":"27-41-08",
+    "Prašymo data":"2008-03-06 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3546091,55.7218859 ]
+    },
+    "properties": {
+    "Nr":58,
+    "Adresas":"Vysk. K. Paltaroko g. 20-502, Panevėžys",
+    "Bylos Nr.":"27-47-08",
+    "Prašymo data":"2008-03-19 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3428378,55.7439494 ]
+    },
+    "properties": {
+    "Nr":59,
+    "Adresas":"S. Kerbedžio g. 5, Panevėžys",
+    "Bylos Nr.":"27-50-08",
+    "Prašymo data":"2008-03-19 09:30",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3234064,55.7352764 ]
+    },
+    "properties": {
+    "Nr":60,
+    "Adresas":"Dariaus ir Girėno g. 28-42, Panevėžys",
+    "Bylos Nr.":"27-57-08",
+    "Prašymo data":"2008-03-28 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3546091,55.7218859 ]
+    },
+    "properties": {
+    "Nr":61,
+    "Adresas":"Vysk. K. Paltaroko g. 20-427, Panevėžys",
+    "Bylos Nr.":"27-59-08",
+    "Prašymo data":"2008-04-02 08:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3799944,55.7178201 ]
+    },
+    "properties": {
+    "Nr":62,
+    "Adresas":"Staniūnų g. 70-113B, Panevėžys",
+    "Bylos Nr.":"27-60-08",
+    "Prašymo data":"2008-04-03 08:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3549984,55.7392571 ]
+    },
+    "properties": {
+    "Nr":63,
+    "Adresas":"Šiaulių g. 3B, Panevėžys",
+    "Bylos Nr.":"27-62-08",
+    "Prašymo data":"2008-04-07 09:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":64,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-64-08",
+    "Prašymo data":"2008-04-08 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3577404,55.7243465 ]
+    },
+    "properties": {
+    "Nr":65,
+    "Adresas":"Aldonos g. 5-32, Panevėžys",
+    "Bylos Nr.":"27-66-08",
+    "Prašymo data":"2008-04-09 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3417534,55.74986 ]
+    },
+    "properties": {
+    "Nr":66,
+    "Adresas":"Pievų g. 32, Panevėžys",
+    "Bylos Nr.":"27-75-08",
+    "Prašymo data":"2008-04-22 08:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.385678,55.7381718 ]
+    },
+    "properties": {
+    "Nr":67,
+    "Adresas":"Audėjų g. 6-506, Panevėžys",
+    "Bylos Nr.":"27-81-08",
+    "Prašymo data":"2008-05-10 08:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3464794,55.7187145 ]
+    },
+    "properties": {
+    "Nr":68,
+    "Adresas":"Margirio g. 6-6, Panevėžys",
+    "Bylos Nr.":"27-82-08",
+    "Prašymo data":"2008-05-10 09:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3440095,55.720957 ]
+    },
+    "properties": {
+    "Nr":69,
+    "Adresas":"Nemuno g. 31B-43, Panevėžys",
+    "Bylos Nr.":"27-83-08",
+    "Prašymo data":"2008-05-10 10:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":70,
+    "Adresas":"Marijonų g. 49-89, Panevėžys",
+    "Bylos Nr.":"27-84-08",
+    "Prašymo data":"2008-05-12 08:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3841026,55.7253097 ]
+    },
+    "properties": {
+    "Nr":71,
+    "Adresas":"Aukštaičių g. 80-43, Panevėžys",
+    "Bylos Nr.":"27-100-08",
+    "Prašymo data":"2008-06-11 08:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3781266,55.73910559999999 ]
+    },
+    "properties": {
+    "Nr":72,
+    "Adresas":"Šermukšnių g. 44, Panevėžys",
+    "Bylos Nr.":"27-102-08",
+    "Prašymo data":"2008-06-11 10:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3461733,55.71831109999999 ]
+    },
+    "properties": {
+    "Nr":73,
+    "Adresas":"Margirio g. 10-10, Panevėžys",
+    "Bylos Nr.":"27-103-08",
+    "Prašymo data":"2008-06-12 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3642597,55.74172 ]
+    },
+    "properties": {
+    "Nr":74,
+    "Adresas":"Vilties g. 22-19, Panevėžys",
+    "Bylos Nr.":"27-106-08",
+    "Prašymo data":"2008-06-19 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3816463,55.7574901 ]
+    },
+    "properties": {
+    "Nr":75,
+    "Adresas":"Keramikų g. 12, Panevėžys",
+    "Bylos Nr.":"27-120-08",
+    "Prašymo data":"2008-07-23 08:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3653317,55.7219676 ]
+    },
+    "properties": {
+    "Nr":76,
+    "Adresas":"Aukštaičių g. 3-43, Panevėžys",
+    "Bylos Nr.":"27-122-08",
+    "Prašymo data":"2008-07-25 08:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3217444,55.7267936 ]
+    },
+    "properties": {
+    "Nr":77,
+    "Adresas":"Kniaudiškių g. 54-25, Panevėžys",
+    "Bylos Nr.":"27-123-08",
+    "Prašymo data":"2008-07-28 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3577865,55.72381679999999 ]
+    },
+    "properties": {
+    "Nr":78,
+    "Adresas":"Aldonos g. 7-24, Panevėžys",
+    "Bylos Nr.":"27-138-08",
+    "Prašymo data":"2008-08-19 08:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3546091,55.7218859 ]
+    },
+    "properties": {
+    "Nr":79,
+    "Adresas":"Vysk. K. Paltaroko g. 20-425A, Panevėžys",
+    "Bylos Nr.":"27-141-08",
+    "Prašymo data":"2008-08-25 08:00",
+    "Šeimos narių sk.":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3637485,55.718474 ]
+    },
+    "properties": {
+    "Nr":80,
+    "Adresas":"Durpyno g. 4-50, Panevėžys",
+    "Bylos Nr.":"27-142-08",
+    "Prašymo data":"2008-08-27 08:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3694383,55.7187165 ]
+    },
+    "properties": {
+    "Nr":81,
+    "Adresas":"J. Basanavičiaus g. 66-84, Panevėžys",
+    "Bylos Nr.":"27-152-08",
+    "Prašymo data":"2008-09-22 08:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3653499,55.74106699999999 ]
+    },
+    "properties": {
+    "Nr":82,
+    "Adresas":"Liepų al. 17A-17, Panevėžys",
+    "Bylos Nr.":"27-160-08",
+    "Prašymo data":"2008-10-02 08:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.33523,55.7296733 ]
+    },
+    "properties": {
+    "Nr":83,
+    "Adresas":"F. Vaitkaus g. 6-21, Panevėžys",
+    "Bylos Nr.":"27-173-08",
+    "Prašymo data":"2008-10-17 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3599467,55.7242879 ]
+    },
+    "properties": {
+    "Nr":84,
+    "Adresas":"Sodų g. 21-9, Panevėžys",
+    "Bylos Nr.":"27-190-08",
+    "Prašymo data":"2008-11-13 10:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3657301,55.7382566 ]
+    },
+    "properties": {
+    "Nr":85,
+    "Adresas":"Liepų al. 7-42A, Panevėžys",
+    "Bylos Nr.":"27-191-08",
+    "Prašymo data":"2008-11-14 08:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3177264,55.7323912 ]
+    },
+    "properties": {
+    "Nr":86,
+    "Adresas":"Ateities g. 22-16, Panevėžys",
+    "Bylos Nr.":"27-194-08",
+    "Prašymo data":"2008-11-21 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3121802,55.7137841 ]
+    },
+    "properties": {
+    "Nr":87,
+    "Adresas":"Pilaitės g. 1, Molainių k., Panevėžio sen., Panevėžio r.",
+    "Bylos Nr.":"27-196-08",
+    "Prašymo data":"2008-11-24 10:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3576198,55.7422156 ]
+    },
+    "properties": {
+    "Nr":88,
+    "Adresas":"J. Jablonskio g. 21-1, Panevėžys",
+    "Bylos Nr.":"27-201-08",
+    "Prašymo data":"2008-12-04 14:56",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3985543,55.7590547 ]
+    },
+    "properties": {
+    "Nr":89,
+    "Adresas":"Liepų g. 3, Tičkūnų k., Panevėžio sen., Panevėžio r.",
+    "Bylos Nr.":"27-202-08",
+    "Prašymo data":"2008-12-09 13:44",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3681613,55.7287848 ]
+    },
+    "properties": {
+    "Nr":90,
+    "Adresas":"J. Basanavičiaus g. 1-22, Panevėžys",
+    "Bylos Nr.":"27-94-08",
+    "Prašymo data":"2008-05-30 08:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3588694,55.7278004 ]
+    },
+    "properties": {
+    "Nr":91,
+    "Adresas":"Klaipėdos g. 26B-2, Panevėžys",
+    "Bylos Nr.":"27-7-09",
+    "Prašymo data":"2009-01-21 10:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3296299,55.7236543 ]
+    },
+    "properties": {
+    "Nr":92,
+    "Adresas":"Molainių g. 54-4, Panevėžys",
+    "Bylos Nr.":"27-5-09",
+    "Prašymo data":"2009-01-21 15:23",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3260593,55.7138854 ]
+    },
+    "properties": {
+    "Nr":93,
+    "Adresas":"Raudžių g. 3, Panevėžys",
+    "Bylos Nr.":"27-11-09",
+    "Prašymo data":"2009-01-27 12:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":94,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-17-09",
+    "Prašymo data":"2009-02-03 09:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3657301,55.7382566 ]
+    },
+    "properties": {
+    "Nr":95,
+    "Adresas":"Liepų al. 7-60, Panevėžys",
+    "Bylos Nr.":"27-20-09",
+    "Prašymo data":"2009-02-06 14:15",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.352057,55.7209599 ]
+    },
+    "properties": {
+    "Nr":96,
+    "Adresas":"Nemuno g. 10-215, Panevėžys",
+    "Bylos Nr.":"27-24-09",
+    "Prašymo data":"2009-02-21 08:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":97,
+    "Adresas":"Marijonų g. 49-113, Panevėžys",
+    "Bylos Nr.":"27-26-09",
+    "Prašymo data":"2009-02-24 10:00",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3467557,55.7328171 ]
+    },
+    "properties": {
+    "Nr":98,
+    "Adresas":"Tulpių g. 34, Panevėžys",
+    "Bylos Nr.":"27-27-09",
+    "Prašymo data":"2009-03-02 10:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3512217,55.7164063 ]
+    },
+    "properties": {
+    "Nr":99,
+    "Adresas":"Nendrės g. 18-7, Panevėžys",
+    "Bylos Nr.":"27-31-09",
+    "Prašymo data":"2009-03-06 10:20",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3588963,55.71823149999999 ]
+    },
+    "properties": {
+    "Nr":100,
+    "Adresas":"Danutės g. 40A-212, Panevėžys",
+    "Bylos Nr.":"27-35-09",
+    "Prašymo data":"2009-03-12 09:05",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3823625,55.7171312 ]
+    },
+    "properties": {
+    "Nr":101,
+    "Adresas":"Staniūnų g. 77-80, Panevėžys",
+    "Bylos Nr.":"27-66-09",
+    "Prašymo data":"2009-04-15 13:30",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3260229,55.7326894 ]
+    },
+    "properties": {
+    "Nr":102,
+    "Adresas":"Dariaus ir Girėno g. 16-49, Panevėžys",
+    "Bylos Nr.":"27-72-09",
+    "Prašymo data":"2009-04-23 11:05",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":103,
+    "Adresas":"Marijonų g. 49-19, Panevėžys",
+    "Bylos Nr.":"27-74-09",
+    "Prašymo data":"2009-04-27 09:45",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3171939,55.7356156 ]
+    },
+    "properties": {
+    "Nr":104,
+    "Adresas":"Ateities g. 50-2, Panevėžys",
+    "Bylos Nr.":"27-88-09",
+    "Prašymo data":"2009-05-25 13:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3232756,55.733219 ]
+    },
+    "properties": {
+    "Nr":105,
+    "Adresas":"Dariaus ir Girėno g. 19-5, Panevėžys",
+    "Bylos Nr.":"27-89-09",
+    "Prašymo data":"2009-05-26 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3844783,55.72166319999999 ]
+    },
+    "properties": {
+    "Nr":106,
+    "Adresas":"Beržų g. 41-41, Panevėžys",
+    "Bylos Nr.":"27-92-09",
+    "Prašymo data":"2009-05-29 10:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.31524,55.7100346 ]
+    },
+    "properties": {
+    "Nr":107,
+    "Adresas":"Žvejų g. 4, Panevėžys",
+    "Bylos Nr.":"27-93-09",
+    "Prašymo data":"2009-06-01 10:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3347321,55.7234001 ]
+    },
+    "properties": {
+    "Nr":108,
+    "Adresas":"Molainių g. 14-65, Panevėžys",
+    "Bylos Nr.":"27-94-09",
+    "Prašymo data":"2009-06-02 12:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.332253,55.729789 ]
+    },
+    "properties": {
+    "Nr":109,
+    "Adresas":"F. Vaitkaus g. 3-40, Panevėžys",
+    "Bylos Nr.":"27-104-09",
+    "Prašymo data":"2009-06-22 10:20",
+    "Šeimos narių sk.":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3608769,55.7482425 ]
+    },
+    "properties": {
+    "Nr":110,
+    "Adresas":"Alyvų g. 42, Panevėžys",
+    "Bylos Nr.":"27-113-09",
+    "Prašymo data":"2009-07-20 09:58",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3468663,55.7181975 ]
+    },
+    "properties": {
+    "Nr":111,
+    "Adresas":"Margirio g. 9-11, Panevėžys",
+    "Bylos Nr.":"27-115-09",
+    "Prašymo data":"2009-07-22 15:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3798756,55.7151882 ]
+    },
+    "properties": {
+    "Nr":112,
+    "Adresas":"Staniūnų g. 78-168, Panevėžys",
+    "Bylos Nr.":"27-120-09",
+    "Prašymo data":"2009-07-29 09:40",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3648056,55.72031459999999 ]
+    },
+    "properties": {
+    "Nr":113,
+    "Adresas":"Ramygalos g. 61-58, Panevėžys",
+    "Bylos Nr.":"27-126-09",
+    "Prašymo data":"2009-08-06 14:40",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3297145,55.73571519999999 ]
+    },
+    "properties": {
+    "Nr":114,
+    "Adresas":"Parko g. 43-29, Panevėžys",
+    "Bylos Nr.":"27-111-09",
+    "Prašymo data":"2009-08-10 16:04",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3642597,55.74172 ]
+    },
+    "properties": {
+    "Nr":115,
+    "Adresas":"Vilties g. 22-47, Panevėžys",
+    "Bylos Nr.":"27-132-09",
+    "Prašymo data":"2009-08-21 11:00",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3466432,55.7368932 ]
+    },
+    "properties": {
+    "Nr":116,
+    "Adresas":"Naujamiesčio g. 85-3, Panevėžys",
+    "Bylos Nr.":"27-151-09",
+    "Prašymo data":"2009-09-30 16:40",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3794304,55.7377025 ]
+    },
+    "properties": {
+    "Nr":117,
+    "Adresas":"Senamiesčio g. 52-3, Panevėžys",
+    "Bylos Nr.":"27-167-09",
+    "Prašymo data":"2009-11-13 11:45",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3609991,55.7214648 ]
+    },
+    "properties": {
+    "Nr":118,
+    "Adresas":"Sodų g. 58-2, Panevėžys",
+    "Bylos Nr.":"27-173-09",
+    "Prašymo data":"2009-11-24 16:35",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.363281,55.7402782 ]
+    },
+    "properties": {
+    "Nr":119,
+    "Adresas":"Marijonų g. 37-36, Panevėžys",
+    "Bylos Nr.":"27-185-09",
+    "Prašymo data":"2009-12-18 09:54",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3801388,55.7244004 ]
+    },
+    "properties": {
+    "Nr":120,
+    "Adresas":"Aukštaičių g. 66-31, Panevėžys",
+    "Bylos Nr.":"27-188-09",
+    "Prašymo data":"2009-12-23 14:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3185795,55.73345029999999 ]
+    },
+    "properties": {
+    "Nr":121,
+    "Adresas":"Ateities g. 30-71, Panevėžys",
+    "Bylos Nr.":"27-192-09",
+    "Prašymo data":"2009-12-28 10:58",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3591061,55.744111 ]
+    },
+    "properties": {
+    "Nr":122,
+    "Adresas":"Nevėžio g. 33-4, Panevėžys",
+    "Bylos Nr.":"27-06-10",
+    "Prašymo data":"2010-01-29 14:10",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3703273,55.7352158 ]
+    },
+    "properties": {
+    "Nr":123,
+    "Adresas":"J. Vaitiekūno g. 12-6, Panevėžys",
+    "Bylos Nr.":"27-15-10",
+    "Prašymo data":"2010-02-19 11:33",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3611772,55.7496965 ]
+    },
+    "properties": {
+    "Nr":124,
+    "Adresas":"Rožių g. 39-1, Panevėžys",
+    "Bylos Nr.":"27-18-10",
+    "Prašymo data":"2010-02-22 13:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3534769,55.7335568 ]
+    },
+    "properties": {
+    "Nr":125,
+    "Adresas":"A. Mackevičiaus g. 28-1, Panevėžys",
+    "Bylos Nr.":"27-21-10",
+    "Prašymo data":"2010-02-23 10:45",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3841026,55.7253097 ]
+    },
+    "properties": {
+    "Nr":126,
+    "Adresas":"Aukštaičių g. 80-45, Panevėžys",
+    "Bylos Nr.":"27-28-10",
+    "Prašymo data":"2010-03-02 16:49",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3820372,55.7234878 ]
+    },
+    "properties": {
+    "Nr":127,
+    "Adresas":"Žemaičių g. 21-23, Panevėžys",
+    "Bylos Nr.":"27-32-10",
+    "Prašymo data":"2010-03-09 13:15",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3591074,55.7174687 ]
+    },
+    "properties": {
+    "Nr":128,
+    "Adresas":"Durpyno g. 13-1, Panevėžys",
+    "Bylos Nr.":"27-33-10",
+    "Prašymo data":"2010-03-09 16:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.352057,55.7209599 ]
+    },
+    "properties": {
+    "Nr":129,
+    "Adresas":"Nemuno g. 10-201, Panevėžys",
+    "Bylos Nr.":"27-130-09",
+    "Prašymo data":"2009-08-11 15:56",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3555759,55.7395511 ]
+    },
+    "properties": {
+    "Nr":130,
+    "Adresas":"Stoties g. 7-8, Panevėžys",
+    "Bylos Nr.":"27-44-10",
+    "Prašymo data":"2010-04-14 11:05",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":131,
+    "Adresas":"Marijonų g. 49-118, Panevėžys",
+    "Bylos Nr.":"27-52-10",
+    "Prašymo data":"2010-05-13 11:35",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3176279,55.7340294 ]
+    },
+    "properties": {
+    "Nr":132,
+    "Adresas":"Ateities g. 40-26, Panevėžys",
+    "Bylos Nr.":"27-53-10",
+    "Prašymo data":"2010-05-14 13:42",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3217444,55.7267936 ]
+    },
+    "properties": {
+    "Nr":133,
+    "Adresas":"Kniaudiškių g. 54-27, Panevėžys",
+    "Bylos Nr.":"27-56-10",
+    "Prašymo data":"2010-05-25 10:15",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3234423,55.7303812 ]
+    },
+    "properties": {
+    "Nr":134,
+    "Adresas":"Klaipėdos g. 126-41, Panevėžys",
+    "Bylos Nr.":"27-60-10",
+    "Prašymo data":"2010-06-07 10:28",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3278892,55.72306340000001 ]
+    },
+    "properties": {
+    "Nr":135,
+    "Adresas":"Molainių g. 60-46, Panevėžys",
+    "Bylos Nr.":"27-62-10",
+    "Prašymo data":"2010-06-10 13:12",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3699354,55.72439809999999 ]
+    },
+    "properties": {
+    "Nr":136,
+    "Adresas":"Algirdo g. 40, Panevėžys",
+    "Bylos Nr.":"27-69-10",
+    "Prašymo data":"2010-06-23 13:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3221882,55.73585509999999 ]
+    },
+    "properties": {
+    "Nr":137,
+    "Adresas":"Parko g. 77-33, Panevėžys",
+    "Bylos Nr.":"27-70-10",
+    "Prašymo data":"2010-06-29 14:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3623212,55.7184144 ]
+    },
+    "properties": {
+    "Nr":138,
+    "Adresas":"Ramygalos g. 82A-2, Panevėžys",
+    "Bylos Nr.":"27-72-10",
+    "Prašymo data":"2010-07-12 09:08",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3812822,55.7171525 ]
+    },
+    "properties": {
+    "Nr":139,
+    "Adresas":"Staniūnų g. 73-19, Panevėžys",
+    "Bylos Nr.":"27-75-10",
+    "Prašymo data":"2010-07-15 12:06",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3693577,55.7093201 ]
+    },
+    "properties": {
+    "Nr":140,
+    "Adresas":"Matininkų g. 18, Panevėžys",
+    "Bylos Nr.":"27-76-10",
+    "Prašymo data":"2010-07-16 14:08",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3309868,55.7348719 ]
+    },
+    "properties": {
+    "Nr":141,
+    "Adresas":"Parko g. 37-214B, Panevėžys",
+    "Bylos Nr.":"27-80-10",
+    "Prašymo data":"2010-07-30 15:31",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3648043,55.7388474 ]
+    },
+    "properties": {
+    "Nr":142,
+    "Adresas":"Marijonų g. 36-97, Panevėžys",
+    "Bylos Nr.":"27-82-10",
+    "Prašymo data":"2010-08-17 14:50",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3844783,55.72166319999999 ]
+    },
+    "properties": {
+    "Nr":143,
+    "Adresas":"Beržų g. 41-73, Panevėžys",
+    "Bylos Nr.":"27-86-10",
+    "Prašymo data":"2010-08-20 15:28",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3696196,55.7381827 ]
+    },
+    "properties": {
+    "Nr":144,
+    "Adresas":"Smėlynės g. 43-6, Panevėžys",
+    "Bylos Nr.":"27-90-10",
+    "Prašymo data":"2010-08-30 09:42",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":145,
+    "Adresas":"Nemuno g. 12-417, Panevėžys",
+    "Bylos Nr.":"27-96-10",
+    "Prašymo data":"2010-09-21 10:57",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3466516,55.7324087 ]
+    },
+    "properties": {
+    "Nr":146,
+    "Adresas":"Tulpių g. 8-32, Panevėžys",
+    "Bylos Nr.":"27-97-10",
+    "Prašymo data":"2010-09-23 09:45",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3433773,55.7370959 ]
+    },
+    "properties": {
+    "Nr":147,
+    "Adresas":"Švyturio g. 37, Panevėžys",
+    "Bylos Nr.":"27-100-10",
+    "Prašymo data":"2010-09-28 10:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3657301,55.7382566 ]
+    },
+    "properties": {
+    "Nr":148,
+    "Adresas":"Liepų al. 7-39, Panevėžys",
+    "Bylos Nr.":"27-126-10",
+    "Prašymo data":"2010-12-08 08:38",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3581006,55.72835629999999 ]
+    },
+    "properties": {
+    "Nr":149,
+    "Adresas":"Š. Mero g. 9-1, Panevėžys",
+    "Bylos Nr.":"27-127-10",
+    "Prašymo data":"2010-12-08 14:03",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.346014,55.717583 ]
+    },
+    "properties": {
+    "Nr":150,
+    "Adresas":"Margirio g. 17-18, Panevėžys",
+    "Bylos Nr.":"27-129-10",
+    "Prašymo data":"2010-12-14 14:09",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":151,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-135-10",
+    "Prašymo data":"2010-12-28 11:22",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.762431,55.419312 ]
+    },
+    "properties": {
+    "Nr":152,
+    "Adresas":"Radžiūnų k., Taujėnų sen., Ukmergės r.",
+    "Bylos Nr.":"27-8-11",
+    "Prašymo data":"2011-01-27 13:04",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3571362,55.7198777 ]
+    },
+    "properties": {
+    "Nr":153,
+    "Adresas":"Nemuno g. 13-42, Panevėžys",
+    "Bylos Nr.":"27-10-11",
+    "Prašymo data":"2011-01-28 14:23",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3553838,55.7405311 ]
+    },
+    "properties": {
+    "Nr":154,
+    "Adresas":"Stoties g. 17-3, Panevėžys",
+    "Bylos Nr.":"27-13-11",
+    "Prašymo data":"2011-02-07 11:11",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3715488,55.7221858 ]
+    },
+    "properties": {
+    "Nr":155,
+    "Adresas":"Zanavykų g. 13, Panevėžys",
+    "Bylos Nr.":"27-19-11",
+    "Prašymo data":"2011-02-18 13:15",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":156,
+    "Adresas":"Nemuno g. 12-314, Panevėžys",
+    "Bylos Nr.":"27-18-11",
+    "Prašymo data":"2011-02-18 14:52",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":157,
+    "Adresas":"Marijonų g. 49-80, Panevėžys",
+    "Bylos Nr.":"27-26-11",
+    "Prašymo data":"2011-03-15 14:18",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3642597,55.74172 ]
+    },
+    "properties": {
+    "Nr":158,
+    "Adresas":"Vilties g. 22-62, Panevėžys",
+    "Bylos Nr.":"27-27-11",
+    "Prašymo data":"2011-03-16 14:08",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3657301,55.7382566 ]
+    },
+    "properties": {
+    "Nr":159,
+    "Adresas":"Liepų al. 7-22, Panevėžys",
+    "Bylos Nr.":"27-32-11",
+    "Prašymo data":"2011-03-23 15:13",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3823227,55.7232523 ]
+    },
+    "properties": {
+    "Nr":160,
+    "Adresas":"Žemaičių g. 14-2, Panevėžys",
+    "Bylos Nr.":"27-36-11",
+    "Prašymo data":"2011-03-28 16:48",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3840808,55.7261684 ]
+    },
+    "properties": {
+    "Nr":161,
+    "Adresas":"Aukštaičių g. 87-509, Panevėžys",
+    "Bylos Nr.":"27-39-11",
+    "Prašymo data":"2011-03-31 11:08",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.364161,55.739489 ]
+    },
+    "properties": {
+    "Nr":162,
+    "Adresas":"Marijonų g. 41-15, Panevėžys",
+    "Bylos Nr.":"27-47-11",
+    "Prašymo data":"2011-04-22 14:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3300021,55.72715770000001 ]
+    },
+    "properties": {
+    "Nr":163,
+    "Adresas":"Kniaudiškių g. 22-22, Panevėžys",
+    "Bylos Nr.":"27-49-11",
+    "Prašymo data":"2011-04-29 11:30",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":164,
+    "Adresas":"Nemuno g. 12-402, Panevėžys",
+    "Bylos Nr.":"27-53-11",
+    "Prašymo data":"2011-05-10 15:55",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3250527,55.7300238 ]
+    },
+    "properties": {
+    "Nr":165,
+    "Adresas":"Klaipėdos g. 124-64, Panevėžys",
+    "Bylos Nr.":"27-61-11",
+    "Prašymo data":"2011-05-24 15:44",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3444624,55.7374331 ]
+    },
+    "properties": {
+    "Nr":166,
+    "Adresas":"Tulpių g. 16-59, Panevėžys",
+    "Bylos Nr.":"27-63-11",
+    "Prašymo data":"2011-05-26 11:38",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3644966,55.7197012 ]
+    },
+    "properties": {
+    "Nr":167,
+    "Adresas":"Ramygalos g. 59-77, Panevėžys",
+    "Bylos Nr.":"27-65-11",
+    "Prašymo data":"2011-05-27 10:35",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3265309,55.7321695 ]
+    },
+    "properties": {
+    "Nr":168,
+    "Adresas":"Statybininkų g. 58-33, Panevėžys",
+    "Bylos Nr.":"27-68-11",
+    "Prašymo data":"2011-06-01 16:47",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":169,
+    "Adresas":"Ainių g. 20ABC, Panevėžys",
+    "Bylos Nr.":"27-70-11",
+    "Prašymo data":"2011-06-14 13:15",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3693009,55.7384328 ]
+    },
+    "properties": {
+    "Nr":170,
+    "Adresas":"Smėlynės g. 51-82, Panevėžys",
+    "Bylos Nr.":"27-75-11",
+    "Prašymo data":"2011-06-29 09:26",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.385483,55.7220418 ]
+    },
+    "properties": {
+    "Nr":171,
+    "Adresas":"Beržų g. 43-47, Panevėžys",
+    "Bylos Nr.":"27-76-11",
+    "Prašymo data":"2011-06-29 11:22",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3278892,55.72306340000001 ]
+    },
+    "properties": {
+    "Nr":172,
+    "Adresas":"Molainių g. 60-22, Panevėžys",
+    "Bylos Nr.":"27-82-11",
+    "Prašymo data":"2011-07-14 15:15",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3452522,55.7573395 ]
+    },
+    "properties": {
+    "Nr":173,
+    "Adresas":"Saulėtekio g. 40, Panevėžys",
+    "Bylos Nr.":"27-83-11",
+    "Prašymo data":"2011-07-15 08:23",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3544755,55.7431578 ]
+    },
+    "properties": {
+    "Nr":174,
+    "Adresas":"Stoties g. 41-6, Panevėžys",
+    "Bylos Nr.":"27-87-11",
+    "Prašymo data":"2011-07-25 11:21",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3854907,55.7010103 ]
+    },
+    "properties": {
+    "Nr":175,
+    "Adresas":"Žagienės g. 1, Pažagienių k., Panevėžio raj.",
+    "Bylos Nr.":"27-95-11",
+    "Prašymo data":"2011-08-24 13:45",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3544421,55.7396196 ]
+    },
+    "properties": {
+    "Nr":176,
+    "Adresas":"Šiaulių g. 9-1, Panevėžys",
+    "Bylos Nr.":"27-105-11",
+    "Prašymo data":"2011-08-30 16:36",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3580248,55.7200182 ]
+    },
+    "properties": {
+    "Nr":177,
+    "Adresas":"Nemuno g. 11-55, Panevėžys",
+    "Bylos Nr.":"27-111-11",
+    "Prašymo data":"2011-09-14 11:54",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3554488,55.74365 ]
+    },
+    "properties": {
+    "Nr":178,
+    "Adresas":"Utenos g. 4-1, Panevėžys",
+    "Bylos Nr.":"27-112-11",
+    "Prašymo data":"2011-09-15 15:14",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3494955,55.720324 ]
+    },
+    "properties": {
+    "Nr":179,
+    "Adresas":"Nemuno g. 14-210, Panevėžys",
+    "Bylos Nr.":"27-116-11",
+    "Prašymo data":"2011-09-20 14:42",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3191756,55.7412514 ]
+    },
+    "properties": {
+    "Nr":180,
+    "Adresas":"Įmonių g. 19A-16, Panevėžys",
+    "Bylos Nr.":"27-117-11",
+    "Prašymo data":"2011-09-20 15:17",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3675376,55.7318533 ]
+    },
+    "properties": {
+    "Nr":181,
+    "Adresas":"Smėlynės g. 9-4, Panevėžys",
+    "Bylos Nr.":"27-125-11",
+    "Prašymo data":"2011-09-29 14:08",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3820467,55.7172665 ]
+    },
+    "properties": {
+    "Nr":182,
+    "Adresas":"Staniūnų g. 75-133, Panevėžys",
+    "Bylos Nr.":"27-137-11",
+    "Prašymo data":"2011-11-02 14:42",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3654194,55.7397322 ]
+    },
+    "properties": {
+    "Nr":183,
+    "Adresas":"Liepų al. 11A-32, Panevėžys",
+    "Bylos Nr.":"27-140-11",
+    "Prašymo data":"2011-11-05 14:32",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.321907,55.7490189 ]
+    },
+    "properties": {
+    "Nr":184,
+    "Adresas":"Pušaloto g. 175, Panevėžys",
+    "Bylos Nr.":"27-139-11",
+    "Prašymo data":"2011-11-09 12:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3648043,55.7388474 ]
+    },
+    "properties": {
+    "Nr":185,
+    "Adresas":"Marijonų g. 36-93, Panevėžys",
+    "Bylos Nr.":"27-145-11",
+    "Prašymo data":"2011-11-30 10:04",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3373069,55.7248131 ]
+    },
+    "properties": {
+    "Nr":186,
+    "Adresas":"Žvaigždžių g. 18-21, Panevėžys",
+    "Bylos Nr.":"27-146-11",
+    "Prašymo data":"2011-11-30 14:38",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3570582,55.7290718 ]
+    },
+    "properties": {
+    "Nr":187,
+    "Adresas":"A. Smetonos g. 18-5, Panevėžys",
+    "Bylos Nr.":"27-3-12",
+    "Prašymo data":"2012-01-18 10:07",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":188,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-6-12",
+    "Prašymo data":"2012-01-20 14:43",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3812822,55.7171525 ]
+    },
+    "properties": {
+    "Nr":189,
+    "Adresas":"Staniūnų g. 73-19A, Panevėžys",
+    "Bylos Nr.":"27-19-12",
+    "Prašymo data":"2012-02-07 14:09",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3540236,55.7240013 ]
+    },
+    "properties": {
+    "Nr":190,
+    "Adresas":"Vysk. K. Paltaroko g. 8, Panevėžys",
+    "Bylos Nr.":"27-20-12",
+    "Prašymo data":"2012-02-08 15:18",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":191,
+    "Adresas":"Marijonų g. 49-122, Panevėžys",
+    "Bylos Nr.":"27-22-12",
+    "Prašymo data":"2012-02-20 11:58",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3514413,55.73622109999999 ]
+    },
+    "properties": {
+    "Nr":192,
+    "Adresas":"Teatro g. 20, Panevėžys",
+    "Bylos Nr.":"27-25-12",
+    "Prašymo data":"2012-02-22 15:07",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":193,
+    "Adresas":"Vėdrynų g. 45, Panevėžys",
+    "Bylos Nr.":"27-27-12",
+    "Prašymo data":"2012-02-28 13:15",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3820467,55.7172665 ]
+    },
+    "properties": {
+    "Nr":194,
+    "Adresas":"Staniūnų g. 75-181, Panevėžys",
+    "Bylos Nr.":"27-29-12",
+    "Prašymo data":"2012-02-29 16:21",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3687482,55.74107069999999 ]
+    },
+    "properties": {
+    "Nr":195,
+    "Adresas":"Vilties g. 38, Panevėžys",
+    "Bylos Nr.":"27-31-12",
+    "Prašymo data":"2012-03-07 10:50",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":196,
+    "Adresas":"Marijonų g. 49-38, Panevėžys",
+    "Bylos Nr.":"27-40-12",
+    "Prašymo data":"2012-03-20 14:26",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3679939,55.7378983 ]
+    },
+    "properties": {
+    "Nr":197,
+    "Adresas":"Marijonų g. 51-6, Panevėžys",
+    "Bylos Nr.":"27-49-12",
+    "Prašymo data":"2012-04-16 09:06",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":198,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-50-12",
+    "Prašymo data":"2012-04-17 11:43",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3455026,55.72913939999999 ]
+    },
+    "properties": {
+    "Nr":199,
+    "Adresas":"Tulpių g. 10-87, Panevėžys",
+    "Bylos Nr.":"27-51-12",
+    "Prašymo data":"2012-04-20 09:57",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3657301,55.7382566 ]
+    },
+    "properties": {
+    "Nr":200,
+    "Adresas":"Liepų al. 7-82, Panevėžys",
+    "Bylos Nr.":"27-60-12",
+    "Prašymo data":"2012-04-25 14:33",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3304979,55.7355202 ]
+    },
+    "properties": {
+    "Nr":201,
+    "Adresas":"Parko g. 35-414, Panevėžys",
+    "Bylos Nr.":"27-64-12",
+    "Prašymo data":"2012-04-27 10:35",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3841026,55.7253097 ]
+    },
+    "properties": {
+    "Nr":202,
+    "Adresas":"Aukštaičių g. 80-43, Panevėžys",
+    "Bylos Nr.":"27-67-12",
+    "Prašymo data":"2012-05-07 16:14",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3134186,55.73469670000001 ]
+    },
+    "properties": {
+    "Nr":203,
+    "Adresas":"Savitiškio g. 19-306, Panevėžys",
+    "Bylos Nr.":"27-127-11",
+    "Prašymo data":"2011-10-03 13:05",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3208125,55.72266519999999 ]
+    },
+    "properties": {
+    "Nr":204,
+    "Adresas":"Molainių g. 88-41, Panevėžys",
+    "Bylos Nr.":"27-76-12",
+    "Prašymo data":"2012-06-08 15:15",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":205,
+    "Adresas":"Nemuno g. 12-507, Panevėžys",
+    "Bylos Nr.":"27-79-12",
+    "Prašymo data":"2012-06-22 11:13",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3695892,55.738416 ]
+    },
+    "properties": {
+    "Nr":206,
+    "Adresas":"Smėlynės g. 49-4, Panevėžys",
+    "Bylos Nr.":"27-84-12",
+    "Prašymo data":"2012-07-18 08:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3207248,55.7220884 ]
+    },
+    "properties": {
+    "Nr":207,
+    "Adresas":"Molainių g. 86-17, Panevėžys",
+    "Bylos Nr.":"27-86-12",
+    "Prašymo data":"2012-07-25 09:28",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":208,
+    "Adresas":"Šeškų k., Paįstrio sen., Panevėžio r.",
+    "Bylos Nr.":"27-88-12",
+    "Prašymo data":"2012-07-30 16:35",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3570654,55.7217412 ]
+    },
+    "properties": {
+    "Nr":209,
+    "Adresas":"Varnaičių g. 8A, Panevėžys",
+    "Bylos Nr.":"27-92-12",
+    "Prašymo data":"2012-08-14 15:48",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3801388,55.7244004 ]
+    },
+    "properties": {
+    "Nr":210,
+    "Adresas":"Aukštaičių g. 66-41, Panevėžys",
+    "Bylos Nr.":"27-100-12",
+    "Prašymo data":"2012-08-20 16:04",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":211,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-96-12",
+    "Prašymo data":"2012-08-28 14:34",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3575286,55.7173951 ]
+    },
+    "properties": {
+    "Nr":212,
+    "Adresas":"Durpyno g. 24-2, Panevėžys",
+    "Bylos Nr.":"27-101-12",
+    "Prašymo data":"2012-09-11 11:17",
+    "Šeimos narių sk.":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3664505,55.7387977 ]
+    },
+    "properties": {
+    "Nr":213,
+    "Adresas":"Liepų al. 10-98, Panevėžys",
+    "Bylos Nr.":"27-103-12",
+    "Prašymo data":"2012-09-14 15:11",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3303852,55.7336324 ]
+    },
+    "properties": {
+    "Nr":214,
+    "Adresas":"Parko g. 39-81, Panevėžys",
+    "Bylos Nr.":"27-115-12",
+    "Prašymo data":"2012-10-10 15:02",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3544421,55.7396196 ]
+    },
+    "properties": {
+    "Nr":215,
+    "Adresas":"Šiaulių g. 9-1, Panevėžys",
+    "Bylos Nr.":"27-117-12",
+    "Prašymo data":"2012-10-16 16:50",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3495925,55.727289 ]
+    },
+    "properties": {
+    "Nr":216,
+    "Adresas":"Klaipėdos g. 31-123, Panevėžys",
+    "Bylos Nr.":"27-119-12",
+    "Prašymo data":"2012-10-29 14:46",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":217,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-126-12",
+    "Prašymo data":"2012-11-20 13:10",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3600477,55.7410469 ]
+    },
+    "properties": {
+    "Nr":218,
+    "Adresas":"Marijonų g. 29-105, Panevėžys",
+    "Bylos Nr.":"27-9-13",
+    "Prašymo data":"2013-01-29 16:58",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":219,
+    "Adresas":"Nemuno g. 12-225, Panevėžys",
+    "Bylos Nr.":"27-14-13",
+    "Prašymo data":"2013-02-05 16:30",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":220,
+    "Adresas":"Stoties g. 34-2, Gustonių k., Naujamiesčio sen., Panevėžio r.",
+    "Bylos Nr.":"27-23-13",
+    "Prašymo data":"2013-02-22 15:17",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3759625,55.7254721 ]
+    },
+    "properties": {
+    "Nr":221,
+    "Adresas":"Algirdo g. 64, Panevėžys",
+    "Bylos Nr.":"27-30-13",
+    "Prašymo data":"2013-03-01 10:23",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":222,
+    "Adresas":"Marijonų g. 49-84, Panevėžys",
+    "Bylos Nr.":"27-32-13",
+    "Prašymo data":"2013-03-07 14:30",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3504766,55.7223424 ]
+    },
+    "properties": {
+    "Nr":223,
+    "Adresas":"J. Tilvyčio g. 49, Panevėžys",
+    "Bylos Nr.":"27-59-13",
+    "Prašymo data":"2013-03-08 10:50",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3390523,55.7427801 ]
+    },
+    "properties": {
+    "Nr":224,
+    "Adresas":"Pušaloto g. 104, Panevėžys",
+    "Bylos Nr.":"27-48-13",
+    "Prašymo data":"2013-04-17 13:17",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3554488,55.74365 ]
+    },
+    "properties": {
+    "Nr":225,
+    "Adresas":"Utenos g. 4-1, Panevėžys",
+    "Bylos Nr.":"27-49-13",
+    "Prašymo data":"2013-04-18 11:15",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3374586,55.7290053 ]
+    },
+    "properties": {
+    "Nr":226,
+    "Adresas":"Kosmonautų g. 1-12, Panevėžys",
+    "Bylos Nr.":"27-55-13",
+    "Prašymo data":"2013-04-24 14:30",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3538267,55.7326381 ]
+    },
+    "properties": {
+    "Nr":227,
+    "Adresas":"A. Mackevičiaus g. 18-4, Panevėžys",
+    "Bylos Nr.":"27-63-13",
+    "Prašymo data":"2013-05-24 10:57",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.345499,55.7538153 ]
+    },
+    "properties": {
+    "Nr":228,
+    "Adresas":"Ramunių g. 31, Panevėžys",
+    "Bylos Nr.":"27-72-13",
+    "Prašymo data":"2013-06-26 13:58",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3668236,55.73840000000001 ]
+    },
+    "properties": {
+    "Nr":229,
+    "Adresas":"Marijonų g. 47-6, Panevėžys",
+    "Bylos Nr.":"27-79-13",
+    "Prašymo data":"2013-07-30 15:43",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3316263,55.72375169999999 ]
+    },
+    "properties": {
+    "Nr":230,
+    "Adresas":"Molainių g. 40-23, Panevėžys",
+    "Bylos Nr.":"27-80-13",
+    "Prašymo data":"2013-07-31 16:32",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.38101,55.7158078 ]
+    },
+    "properties": {
+    "Nr":231,
+    "Adresas":"Staniūnų g. 72-415B, Panevėžys",
+    "Bylos Nr.":"27-82-13",
+    "Prašymo data":"2013-08-12 13:11",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3388893,55.73134959999999 ]
+    },
+    "properties": {
+    "Nr":232,
+    "Adresas":"Kosmonautų g. 9-39, Panevėžys",
+    "Bylos Nr.":"27-84-13",
+    "Prašymo data":"2013-08-23 13:01",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3183822,55.73403649999999 ]
+    },
+    "properties": {
+    "Nr":233,
+    "Adresas":"Ateities g. 36-35, Panevėžys",
+    "Bylos Nr.":"27-91-13",
+    "Prašymo data":"2013-09-18 10:50",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3657301,55.7382566 ]
+    },
+    "properties": {
+    "Nr":234,
+    "Adresas":"Liepų al. 7-36, Panevėžys",
+    "Bylos Nr.":"27-92-13",
+    "Prašymo data":"2013-09-18 14:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3450913,55.7229815 ]
+    },
+    "properties": {
+    "Nr":235,
+    "Adresas":"A. Gudonio g. 13, Panevėžys",
+    "Bylos Nr.":"27-97-13",
+    "Prašymo data":"2013-10-04 15:10",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3654194,55.7397322 ]
+    },
+    "properties": {
+    "Nr":236,
+    "Adresas":"Liepų al. 11A-4, Panevėžys",
+    "Bylos Nr.":"27-99-13",
+    "Prašymo data":"2013-10-16 09:17",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":237,
+    "Adresas":"Marijonų g. 49-108, Panevėžys",
+    "Bylos Nr.":"27-102-13",
+    "Prašymo data":"2013-10-21 13:46",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3812822,55.7171525 ]
+    },
+    "properties": {
+    "Nr":238,
+    "Adresas":"Staniūnų g. 73-62A, Panevėžys",
+    "Bylos Nr.":"27-104-13",
+    "Prašymo data":"2013-10-31 15:41",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3530166,55.71686700000001 ]
+    },
+    "properties": {
+    "Nr":239,
+    "Adresas":"Nendrės g. 3-14, Panevėžys",
+    "Bylos Nr.":"27-108-13",
+    "Prašymo data":"2013-11-26 09:35",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3852996,55.7251713 ]
+    },
+    "properties": {
+    "Nr":240,
+    "Adresas":"Aukštaičių g. 82-5, Panevėžys",
+    "Bylos Nr.":"27-114-13",
+    "Prašymo data":"2013-12-04 16:27",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.308219,55.76961590000001 ]
+    },
+    "properties": {
+    "Nr":241,
+    "Adresas":"Bliūdžių k., Panevėžio sen., Panevėžio r.",
+    "Bylos Nr.":"27-115-13",
+    "Prašymo data":"2013-12-11 11:59",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3260229,55.7326894 ]
+    },
+    "properties": {
+    "Nr":242,
+    "Adresas":"Dariaus ir Girėno g. 16-15, Panevėžys",
+    "Bylos Nr.":"27-116-13",
+    "Prašymo data":"2013-12-16 09:15",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3553935,55.7300251 ]
+    },
+    "properties": {
+    "Nr":243,
+    "Adresas":"A. Smetonos g. 29A, Panevėžys",
+    "Bylos Nr.":"27-120-13",
+    "Prašymo data":"2013-12-31 10:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3524807,55.7430792 ]
+    },
+    "properties": {
+    "Nr":244,
+    "Adresas":"Radviliškio g. 8-3, Panevėžys",
+    "Bylos Nr.":"27-8-14",
+    "Prašymo data":"2014-01-28 09:26",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.347651,55.72237939999999 ]
+    },
+    "properties": {
+    "Nr":245,
+    "Adresas":"Z. Kanevičienės g. 6, Panevėžys",
+    "Bylos Nr.":"27-9-14",
+    "Prašymo data":"2014-01-28 15:42",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3375578,55.7323258 ]
+    },
+    "properties": {
+    "Nr":246,
+    "Adresas":"Statybininkų g. 18-16, Panevėžys",
+    "Bylos Nr.":"27-23-14",
+    "Prašymo data":"2014-03-04 14:14",
+    "Šeimos narių sk.":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":247,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-32-14",
+    "Prašymo data":"2014-04-07 14:14",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3840603,55.72458260000001 ]
+    },
+    "properties": {
+    "Nr":248,
+    "Adresas":"Žemaičių g. 25-29, Panevėžys",
+    "Bylos Nr.":"27-40-14",
+    "Prašymo data":"2014-05-12 09:33",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3635281,55.7523718 ]
+    },
+    "properties": {
+    "Nr":249,
+    "Adresas":"Eglyno g. 9A-1, Panevėžys",
+    "Bylos Nr.":"27-44-14",
+    "Prašymo data":"2014-05-28 13:42",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3813569,55.7230502 ]
+    },
+    "properties": {
+    "Nr":250,
+    "Adresas":"Žemaičių g. 10-80, Panevėžys",
+    "Bylos Nr.":"27-46-14",
+    "Prašymo data":"2014-05-29 15:00",
+    "Šeimos narių sk.":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":251,
+    "Adresas":"Marijonų g. 49-23, Panevėžys",
+    "Bylos Nr.":"27-52-14",
+    "Prašymo data":"2014-07-14 16:32",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":252,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-53-14",
+    "Prašymo data":"2014-07-28 11:14",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":253,
+    "Adresas":"Marijonų g. 49-10, Panevėžys",
+    "Bylos Nr.":"27-59-14",
+    "Prašymo data":"2014-07-30 16:30",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3333471,55.7293396 ]
+    },
+    "properties": {
+    "Nr":254,
+    "Adresas":"F. Vaitkaus g. 2-26, Panevėžys",
+    "Bylos Nr.":"27-57-14",
+    "Prašymo data":"2014-08-12 13:36",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3468663,55.7181975 ]
+    },
+    "properties": {
+    "Nr":255,
+    "Adresas":"Margirio g. 9-10, Panevėžys",
+    "Bylos Nr.":"27-63-14",
+    "Prašymo data":"2014-09-16 15:56",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3187185,55.7324596 ]
+    },
+    "properties": {
+    "Nr":256,
+    "Adresas":"Ateities g. 20-22, Panevėžys",
+    "Bylos Nr.":"27-64-14",
+    "Prašymo data":"2014-09-17 16:19",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3455695,55.73039319999999 ]
+    },
+    "properties": {
+    "Nr":257,
+    "Adresas":"Tulpių g. 13-51, Panevėžys",
+    "Bylos Nr.":"27-66-14",
+    "Prašymo data":"2014-09-18 15:44",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.372238,55.723978 ]
+    },
+    "properties": {
+    "Nr":258,
+    "Adresas":"Margių g. 22-42, Panevėžys",
+    "Bylos Nr.":"27-69-14",
+    "Prašymo data":"2014-10-20 14:30",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3453149,55.7181341 ]
+    },
+    "properties": {
+    "Nr":259,
+    "Adresas":"Margirio g. 16-7, Panevėžys",
+    "Bylos Nr.":"27-72-14",
+    "Prašymo data":"2014-10-23 11:04",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3367043,55.72567189999999 ]
+    },
+    "properties": {
+    "Nr":260,
+    "Adresas":"Žvaigždžių g. 14-21, Panevėžys",
+    "Bylos Nr.":"27-81-14",
+    "Prašymo data":"2014-11-21 15:22",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3238759,55.72386590000001 ]
+    },
+    "properties": {
+    "Nr":261,
+    "Adresas":"Projektuotojų g. 14-73, Panevėžys",
+    "Bylos Nr.":"27-83-14",
+    "Prašymo data":"2014-11-24 11:31",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3820467,55.7172665 ]
+    },
+    "properties": {
+    "Nr":262,
+    "Adresas":"Staniūnų g. 75-124, Panevėžys",
+    "Bylos Nr.":"27-87-14",
+    "Prašymo data":"2014-12-08 16:32",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3309868,55.7348719 ]
+    },
+    "properties": {
+    "Nr":263,
+    "Adresas":"Parko g. 37-519, Panevėžys",
+    "Bylos Nr.":"27-88-14",
+    "Prašymo data":"2014-12-09 11:48",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3314123,55.72941050000001 ]
+    },
+    "properties": {
+    "Nr":264,
+    "Adresas":"Klaipėdos g. 104-42, Panevėžys",
+    "Bylos Nr.":"27-92-14",
+    "Prašymo data":"2014-12-18 14:09",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3442245,55.72412670000001 ]
+    },
+    "properties": {
+    "Nr":265,
+    "Adresas":"Suvalkų g. 42, Panevėžys",
+    "Bylos Nr.":"27-95-14",
+    "Prašymo data":"2014-12-29 15:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":266,
+    "Adresas":"Rožių g. 6-3, Uliūnų k., Ramygalos sen., Panevėžio r.",
+    "Bylos Nr.":"27-07-15",
+    "Prašymo data":"2015-02-05 15:20",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3310895,55.7256247 ]
+    },
+    "properties": {
+    "Nr":267,
+    "Adresas":"Kniaudiškių g. 45-51, Panevėžys",
+    "Bylos Nr.":"27-49-14",
+    "Prašymo data":"2014-07-07 14:10",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3748764,55.7217269 ]
+    },
+    "properties": {
+    "Nr":268,
+    "Adresas":"V. Montvilos g. 15, Panevėžys",
+    "Bylos Nr.":"27-08-15",
+    "Prašymo data":"2015-02-09 15:31",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3665208,55.7166539 ]
+    },
+    "properties": {
+    "Nr":269,
+    "Adresas":"Ramygalos g. 110-8, Panevėžys",
+    "Bylos Nr.":"27-09-15",
+    "Prašymo data":"2015-02-10 10:54",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.365101,55.7255735 ]
+    },
+    "properties": {
+    "Nr":270,
+    "Adresas":"Vilniaus g. 8-46, Panevėžys",
+    "Bylos Nr.":"27-17-15",
+    "Prašymo data":"2015-03-03 10:10",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3577404,55.7243465 ]
+    },
+    "properties": {
+    "Nr":271,
+    "Adresas":"Aldonos g. 5-6, Panevėžys",
+    "Bylos Nr.":"27-19-15",
+    "Prašymo data":"2015-03-03 15:02",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3648043,55.7388474 ]
+    },
+    "properties": {
+    "Nr":272,
+    "Adresas":"Marijonų g. 36-22, Panevėžys",
+    "Bylos Nr.":"27-22-15",
+    "Prašymo data":"2015-03-18 15:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3173426,55.7347188 ]
+    },
+    "properties": {
+    "Nr":273,
+    "Adresas":"Ateities g. 44-38, Panevėžys",
+    "Bylos Nr.":"27-24-15",
+    "Prašymo data":"2015-03-25 08:31",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.370763,55.7389461 ]
+    },
+    "properties": {
+    "Nr":274,
+    "Adresas":"Šermukšnių g. 4-1, Panevėžys",
+    "Bylos Nr.":"27-25-15",
+    "Prašymo data":"2015-03-25 14:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":275,
+    "Adresas":"Paparčių g. 4, Maženių k., Velžio sen., Panevėžio r.",
+    "Bylos Nr.":"27-30-15",
+    "Prašymo data":"2015-03-31 14:54",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":276,
+    "Adresas":"Paparčių g. 4, Maženių k., Velžio sen., Panevėžio r.",
+    "Bylos Nr.":"27-31-15",
+    "Prašymo data":"2015-03-31 15:01",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.352057,55.7209599 ]
+    },
+    "properties": {
+    "Nr":277,
+    "Adresas":"Nemuno g. 10-202, Panevėžys",
+    "Bylos Nr.":"27-34-15",
+    "Prašymo data":"2015-04-02 13:13",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3727395,55.7429238 ]
+    },
+    "properties": {
+    "Nr":278,
+    "Adresas":"S. Kerbedžio g. 46E, Panevėžys",
+    "Bylos Nr.":"27-35-15",
+    "Prašymo data":"2015-04-09 16:56",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3175394,55.7336469 ]
+    },
+    "properties": {
+    "Nr":279,
+    "Adresas":"Ateities g. 38-26, Panevėžys",
+    "Bylos Nr.":"27-37-15",
+    "Prašymo data":"2015-04-13 11:11",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3267134,55.7356892 ]
+    },
+    "properties": {
+    "Nr":280,
+    "Adresas":"Parko g. 51-72, Panevėžys",
+    "Bylos Nr.":"27-38-15",
+    "Prašymo data":"2015-04-13 16:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.324206,55.74169879999999 ]
+    },
+    "properties": {
+    "Nr":281,
+    "Adresas":"J. Janonio g. 10-17, Panevėžys",
+    "Bylos Nr.":"27-39-15",
+    "Prašymo data":"2015-04-21 13:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3832103,55.7253696 ]
+    },
+    "properties": {
+    "Nr":282,
+    "Adresas":"Aukštaičių g. 76-2, Panevėžys",
+    "Bylos Nr.":"27-41-15",
+    "Prašymo data":"2015-04-28 10:51",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3799944,55.7178201 ]
+    },
+    "properties": {
+    "Nr":283,
+    "Adresas":"Staniūnų g. 70-28, Panevėžys",
+    "Bylos Nr.":"27-43-15",
+    "Prašymo data":"2015-05-08 14:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.367239,55.720243 ]
+    },
+    "properties": {
+    "Nr":284,
+    "Adresas":"Sirupio g. 34, Panevėžys",
+    "Bylos Nr.":"27-45-15",
+    "Prašymo data":"2015-05-19 16:37",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.352057,55.7209599 ]
+    },
+    "properties": {
+    "Nr":285,
+    "Adresas":"Nemuno g. 10-204, Panevėžys",
+    "Bylos Nr.":"27-47-15",
+    "Prašymo data":"2015-05-20 16:32",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3644966,55.7197012 ]
+    },
+    "properties": {
+    "Nr":286,
+    "Adresas":"Ramygalos g. 59-12, Panevėžys",
+    "Bylos Nr.":"27-48-15",
+    "Prašymo data":"2015-05-22 12:42",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3251165,55.7418243 ]
+    },
+    "properties": {
+    "Nr":287,
+    "Adresas":"J. Janonio g. 8-10, Panevėžys",
+    "Bylos Nr.":"27-53-15",
+    "Prašymo data":"2015-06-08 08:11",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3209642,55.7270085 ]
+    },
+    "properties": {
+    "Nr":288,
+    "Adresas":"Kniaudiškių g. 56-19, Panevėžys",
+    "Bylos Nr.":"27-56-15",
+    "Prašymo data":"2015-06-12 10:21",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3142283,55.6166728 ]
+    },
+    "properties": {
+    "Nr":289,
+    "Adresas":"Panevėžio r. sav.",
+    "Bylos Nr.":"27-58-15",
+    "Prašymo data":"2015-06-16 10:21",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.362767,55.7272987 ]
+    },
+    "properties": {
+    "Nr":290,
+    "Adresas":"Laisvės a. 15-16, Panevėžys",
+    "Bylos Nr.":"27-60-15",
+    "Prašymo data":"2015-06-17 11:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3675778,55.7259839 ]
+    },
+    "properties": {
+    "Nr":291,
+    "Adresas":"Vilniaus g. 17-42, Panevėžys",
+    "Bylos Nr.":"27-59-15",
+    "Prašymo data":"2015-06-17 16:33",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3721191,55.7524354 ]
+    },
+    "properties": {
+    "Nr":292,
+    "Adresas":"Pelkių g. 23A, Panevėžys",
+    "Bylos Nr.":"27-61-15",
+    "Prašymo data":"2015-06-23 09:38",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3636218,55.7213015 ]
+    },
+    "properties": {
+    "Nr":293,
+    "Adresas":"Aukštaičių g. 2-71, Panevėžys",
+    "Bylos Nr.":"27-63-15",
+    "Prašymo data":"2015-06-26 10:58",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":294,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-62-15",
+    "Prašymo data":"2015-06-26 15:55",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3545331,55.7512817 ]
+    },
+    "properties": {
+    "Nr":295,
+    "Adresas":"Radastų g. 29, Panevėžys",
+    "Bylos Nr.":"27-64-15",
+    "Prašymo data":"2015-06-29 09:35",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3507621,55.731965 ]
+    },
+    "properties": {
+    "Nr":296,
+    "Adresas":"Vasario 16-osios g. 45-1, Panevėžys",
+    "Bylos Nr.":"27-65-15",
+    "Prašymo data":"2015-07-01 12:02",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.376711,55.7194829 ]
+    },
+    "properties": {
+    "Nr":297,
+    "Adresas":"Beržų g. 35-23, Panevėžys",
+    "Bylos Nr.":"27-66-15",
+    "Prašymo data":"2015-07-09 11:05",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3334253,55.7339018 ]
+    },
+    "properties": {
+    "Nr":298,
+    "Adresas":"Parko g. 21-45, Panevėžys",
+    "Bylos Nr.":"27-67-15",
+    "Prašymo data":"2015-07-16 15:15",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.386847,55.7307743 ]
+    },
+    "properties": {
+    "Nr":299,
+    "Adresas":"Marių g. 17-2, Panevėžys",
+    "Bylos Nr.":"27-68-15",
+    "Prašymo data":"2015-07-21 13:28",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.386847,55.7307743 ]
+    },
+    "properties": {
+    "Nr":300,
+    "Adresas":"Marių g. 17-2, Panevėžys",
+    "Bylos Nr.":"27-69-15",
+    "Prašymo data":"2015-07-22 10:51",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3649601,55.7390805 ]
+    },
+    "properties": {
+    "Nr":301,
+    "Adresas":"Marijonų g. 43-1, Panevėžys",
+    "Bylos Nr.":"27-90 -14",
+    "Prašymo data":"2014-12-17 09:24",
+    "Šeimos narių sk.":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3458539,55.7172551 ]
+    },
+    "properties": {
+    "Nr":302,
+    "Adresas":"Margirio g. 15-5, Panevėžys",
+    "Bylos Nr.":"27-75-15",
+    "Prašymo data":"2015-08-18 11:33",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3694124,55.741509 ]
+    },
+    "properties": {
+    "Nr":303,
+    "Adresas":"Vilties g. 47-18, Panevėžys",
+    "Bylos Nr.":"27-76-15",
+    "Prašymo data":"2015-08-20 10:16",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3345162,55.7343956 ]
+    },
+    "properties": {
+    "Nr":304,
+    "Adresas":"Parko g. 27-32, Panevėžys",
+    "Bylos Nr.":"27-79-15",
+    "Prašymo data":"2015-09-14 14:05",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3669528,55.71800529999999 ]
+    },
+    "properties": {
+    "Nr":305,
+    "Adresas":"Beržų g. 17-72, Panevėžys",
+    "Bylos Nr.":"27-84-15",
+    "Prašymo data":"2015-09-17 14:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3812822,55.7171525 ]
+    },
+    "properties": {
+    "Nr":306,
+    "Adresas":"Staniūnų g. 73-26, Panevėžys",
+    "Bylos Nr.":"27-83-15",
+    "Prašymo data":"2015-09-18 16:30",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3334026,55.72302939999999 ]
+    },
+    "properties": {
+    "Nr":307,
+    "Adresas":"Molainių g. 16-14, Panevėžys",
+    "Bylos Nr.":"27-87-15",
+    "Prašymo data":"2015-09-28 10:00",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3578028,55.7342953 ]
+    },
+    "properties": {
+    "Nr":308,
+    "Adresas":"Respublikos g. 60-p/d15, Panevėžys",
+    "Bylos Nr.":"27-88-15",
+    "Prašymo data":"2015-10-01 16:15",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3808593,55.7246295 ]
+    },
+    "properties": {
+    "Nr":309,
+    "Adresas":"Aukštaičių g. 70-82, Panevėžys",
+    "Bylos Nr.":"27-89-15",
+    "Prašymo data":"2015-10-02 11:55",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3665594,55.739247 ]
+    },
+    "properties": {
+    "Nr":310,
+    "Adresas":"Liepų al. 12-28, Panevėžys",
+    "Bylos Nr.":"27-93-15",
+    "Prašymo data":"2015-10-23 10:47",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3571362,55.7198777 ]
+    },
+    "properties": {
+    "Nr":311,
+    "Adresas":"Nemuno g. 13-57A, Panevėžys",
+    "Bylos Nr.":"27-94-15",
+    "Prašymo data":"2015-10-28 09:12",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3520467,55.72707519999999 ]
+    },
+    "properties": {
+    "Nr":312,
+    "Adresas":"Klaipėdos g. 25-207, Panevėžys",
+    "Bylos Nr.":"27-96-15",
+    "Prašymo data":"2015-10-30 10:57",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3781266,55.73910559999999 ]
+    },
+    "properties": {
+    "Nr":313,
+    "Adresas":"Šermukšnių g. 44, Panevėžys",
+    "Bylos Nr.":"27-97-15",
+    "Prašymo data":"2015-11-02 14:43",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3186736,55.7320894 ]
+    },
+    "properties": {
+    "Nr":314,
+    "Adresas":"Ateities g. 14-5, Panevėžys",
+    "Bylos Nr.":"27-99-15",
+    "Prašymo data":"2015-11-13 14:50",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.352057,55.7209599 ]
+    },
+    "properties": {
+    "Nr":315,
+    "Adresas":"Nemuno g. 10-404, Panevėžys",
+    "Bylos Nr.":"27-100-15",
+    "Prašymo data":"2015-11-20 08:20",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3212908,55.72439019999999 ]
+    },
+    "properties": {
+    "Nr":316,
+    "Adresas":"Kniaudiškių g. 77-26, Panevėžys",
+    "Bylos Nr.":"27-103-15",
+    "Prašymo data":"2015-11-25 14:05",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3307873,55.7226629 ]
+    },
+    "properties": {
+    "Nr":317,
+    "Adresas":"Molainių g. 46-22, Panevėžys",
+    "Bylos Nr.":"27-105-15",
+    "Prašymo data":"2015-12-16 15:35",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3536772,55.7342549 ]
+    },
+    "properties": {
+    "Nr":318,
+    "Adresas":"M. Valančiaus g. 18-2, Panevėžys",
+    "Bylos Nr.":"27-1-16",
+    "Prašymo data":"2016-01-05 13:40",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3342654,55.729246 ]
+    },
+    "properties": {
+    "Nr":319,
+    "Adresas":"Klaipėdos g. 98-17, Panevėžys",
+    "Bylos Nr.":"27-02-16",
+    "Prašymo data":"2016-01-11 10:30",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.363652,55.7416457 ]
+    },
+    "properties": {
+    "Nr":320,
+    "Adresas":"Vilties g. 20-52, Panevėžys",
+    "Bylos Nr.":"27-03-16",
+    "Prašymo data":"2016-01-15 14:20",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3513148,55.73204759999999 ]
+    },
+    "properties": {
+    "Nr":321,
+    "Adresas":"Vasario 16-osios g. 48-3, Panevėžys",
+    "Bylos Nr.":"27-7-16",
+    "Prašymo data":"2016-01-22 13:05",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3512515,55.7559496 ]
+    },
+    "properties": {
+    "Nr":322,
+    "Adresas":"Amerikos g. 70, Panevėžys",
+    "Bylos Nr.":"27-4-16",
+    "Prašymo data":"2016-01-25 16:40",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.352057,55.7209599 ]
+    },
+    "properties": {
+    "Nr":323,
+    "Adresas":"Nemuno g. 10-416, Panevėžys",
+    "Bylos Nr.":"27-51-15",
+    "Prašymo data":"2015-05-29 08:43",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3595644,55.7439544 ]
+    },
+    "properties": {
+    "Nr":324,
+    "Adresas":"Nevėžio g. 40-28, Panevėžys",
+    "Bylos Nr.":"27-5-16",
+    "Prašymo data":"2016-01-26 10:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3454989,55.728652 ]
+    },
+    "properties": {
+    "Nr":325,
+    "Adresas":"Tulpių g. 2-79, Panevėžys",
+    "Bylos Nr.":"27-6-16",
+    "Prašymo data":"2016-01-26 15:11",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3565823,55.745169 ]
+    },
+    "properties": {
+    "Nr":326,
+    "Adresas":"S. Kerbedžio g. 13-1, Panevėžys",
+    "Bylos Nr.":"27-8-16",
+    "Prašymo data":"2016-02-01 13:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3662376,55.760881 ]
+    },
+    "properties": {
+    "Nr":327,
+    "Adresas":"Pušyno g. 138, Panevėžys",
+    "Bylos Nr.":"27-9-16",
+    "Prašymo data":"2016-02-04 15:10",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3697845,55.75264749999999 ]
+    },
+    "properties": {
+    "Nr":328,
+    "Adresas":"Smėlynės g. 178-4, Panevėžys",
+    "Bylos Nr.":"27-10-16",
+    "Prašymo data":"2016-02-05 15:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3840808,55.7261684 ]
+    },
+    "properties": {
+    "Nr":329,
+    "Adresas":"Aukštaičių g. 87-403, Panevėžys",
+    "Bylos Nr.":"27-11-16",
+    "Prašymo data":"2016-02-08 13:50",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.324206,55.74169879999999 ]
+    },
+    "properties": {
+    "Nr":330,
+    "Adresas":"J. Janonio g. 10-8, Panevėžys",
+    "Bylos Nr.":"27-12-16",
+    "Prašymo data":"2016-02-12 14:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3636218,55.7213015 ]
+    },
+    "properties": {
+    "Nr":331,
+    "Adresas":"Aukštaičių g. 2-29, Panevėžys",
+    "Bylos Nr.":"27-14-16",
+    "Prašymo data":"2016-02-17 11:11",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3557069,55.7269133 ]
+    },
+    "properties": {
+    "Nr":332,
+    "Adresas":"Klaipėdos g. 9-4, Panevėžys",
+    "Bylos Nr.":"27-14-16",
+    "Prašymo data":"2016-02-17 13:45",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3562436,55.7292974 ]
+    },
+    "properties": {
+    "Nr":333,
+    "Adresas":"A. Smetonos g. 23A-2, Panevėžys",
+    "Bylos Nr.":"27-15-16",
+    "Prašymo data":"2016-02-19 08:50",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3241222,55.73493440000001 ]
+    },
+    "properties": {
+    "Nr":334,
+    "Adresas":"Parko g. 69-71, Panevėžys",
+    "Bylos Nr.":"27-16-16",
+    "Prašymo data":"2016-02-19 09:50",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3187185,55.7324596 ]
+    },
+    "properties": {
+    "Nr":335,
+    "Adresas":"Ateities g. 20-27, Panevėžys",
+    "Bylos Nr.":"27-17-16",
+    "Prašymo data":"2016-02-19 11:10",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":336,
+    "Adresas":"Mėlynių g. 18, Panevėžys",
+    "Bylos Nr.":"27-18-16",
+    "Prašymo data":"2016-02-22 10:48",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.38101,55.7158078 ]
+    },
+    "properties": {
+    "Nr":337,
+    "Adresas":"Staniūnų g. 72-221, Panevėžys",
+    "Bylos Nr.":"27-19-16",
+    "Prašymo data":"2016-02-23 13:05",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3593464,55.7432909 ]
+    },
+    "properties": {
+    "Nr":338,
+    "Adresas":"Nevėžio g. 36-11, Panevėžys",
+    "Bylos Nr.":"27-20-16",
+    "Prašymo data":"2016-02-23 13:23",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3808593,55.7246295 ]
+    },
+    "properties": {
+    "Nr":339,
+    "Adresas":"Aukštaičių g. 70-82, Panevėžys",
+    "Bylos Nr.":"27-21-16",
+    "Prašymo data":"2016-02-24 14:20",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3295056,55.7229463 ]
+    },
+    "properties": {
+    "Nr":340,
+    "Adresas":"Molainių g. 52-21, Panevėžys",
+    "Bylos Nr.":"27-22-16",
+    "Prašymo data":"2016-02-26 10:40",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3927945,55.7155561 ]
+    },
+    "properties": {
+    "Nr":341,
+    "Adresas":"Radvilų g. 9, Staniūnų k., Velžio sen., Panevėžio r.",
+    "Bylos Nr.":"27-23-16",
+    "Prašymo data":"2016-02-26 11:49",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Nr":342,
+    "Adresas":"Vėdrynų g. 45, Panevėžys",
+    "Bylos Nr.":"27-24-16",
+    "Prašymo data":"2016-03-04 11:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3539182,55.7195981 ]
+    },
+    "properties": {
+    "Nr":343,
+    "Adresas":"Nemuno g. 21-10, Panevėžys",
+    "Bylos Nr.":"27-26-16",
+    "Prašymo data":"2016-03-09 13:40",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3512217,55.7164063 ]
+    },
+    "properties": {
+    "Nr":344,
+    "Adresas":"Nendrės g. 18-3, Panevėžys",
+    "Bylos Nr.":"27-25-16",
+    "Prašymo data":"2016-03-09 15:26",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3812822,55.7171525 ]
+    },
+    "properties": {
+    "Nr":345,
+    "Adresas":"Staniūnų g. 73-19A, Panevėžys",
+    "Bylos Nr.":"27-27-16",
+    "Prašymo data":"2016-03-14 11:06",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3610099,55.7276537 ]
+    },
+    "properties": {
+    "Nr":346,
+    "Adresas":"Klaipėdos g. 10-1, Panevėžys",
+    "Bylos Nr.":"27-28-16",
+    "Prašymo data":"2016-03-15 10:50",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3672682,55.7381997 ]
+    },
+    "properties": {
+    "Nr":347,
+    "Adresas":"Marijonų g. 49-111, Panevėžys",
+    "Bylos Nr.":"27-29-16",
+    "Prašymo data":"2016-03-16 12:15",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.4144909,55.592208 ]
+    },
+    "properties": {
+    "Nr":348,
+    "Adresas":"Papartynės g. 4, Katinų k., Velžio sen., Panevėžio r.",
+    "Bylos Nr.":"27-30-16",
+    "Prašymo data":"2016-03-21 12:35",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3494955,55.720324 ]
+    },
+    "properties": {
+    "Nr":349,
+    "Adresas":"Nemuno g. 14-315, Panevėžys",
+    "Bylos Nr.":"27-31-16",
+    "Prašymo data":"2016-03-30 10:15",
+    "Šeimos narių sk.":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3697845,55.75264749999999 ]
+    },
+    "properties": {
+    "Nr":350,
+    "Adresas":"Smėlynės g. 178-4, Panevėžys",
+    "Bylos Nr.":"27-32-16",
+    "Prašymo data":"2016-04-05 13:40",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3727647,55.7522768 ]
+    },
+    "properties": {
+    "Nr":351,
+    "Adresas":"Pelkių g. 23, Panevėžys",
+    "Bylos Nr.":"27-33-16",
+    "Prašymo data":"2016-04-06 09:50",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3314859,55.7327883 ]
+    },
+    "properties": {
+    "Nr":352,
+    "Adresas":"Statybininkų g. 44-1, Panevėžys",
+    "Bylos Nr.":"27-34-16",
+    "Prašymo data":"2016-04-12 14:30",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3588963,55.71823149999999 ]
+    },
+    "properties": {
+    "Nr":353,
+    "Adresas":"Danutės g. 40A, Panevėžys",
+    "Bylos Nr.":"27-35-16",
+    "Prašymo data":"2016-04-13 11:15",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3448242,55.7281495 ]
+    },
+    "properties": {
+    "Nr":354,
+    "Adresas":"Klaipėdos g. 76, Panevėžys",
+    "Bylos Nr.":"27-36-16",
+    "Prašymo data":"2016-04-14 15:20",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3848282,55.7305923 ]
+    },
+    "properties": {
+    "Nr":355,
+    "Adresas":"Marių g. 9-2, Panevėžys",
+    "Bylos Nr.":"27-37-16",
+    "Prašymo data":"2016-04-18 10:25",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3693389,55.7547254 ]
+    },
+    "properties": {
+    "Nr":356,
+    "Adresas":"Smėlynės g. 198, Panevėžys",
+    "Bylos Nr.":"27-38-16",
+    "Prašymo data":"2016-04-20 09:35",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3692779,55.7242851 ]
+    },
+    "properties": {
+    "Nr":357,
+    "Adresas":"Algirdo g. 38-2, Panevėžys",
+    "Bylos Nr.":"27-39-16",
+    "Prašymo data":"2016-04-20 13:15",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3234423,55.7303812 ]
+    },
+    "properties": {
+    "Nr":358,
+    "Adresas":"Klaipėdos g. 126-41, Panevėžys",
+    "Bylos Nr.":"27-40-16",
+    "Prašymo data":"2016-04-22 08:00",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3251165,55.7418243 ]
+    },
+    "properties": {
+    "Nr":359,
+    "Adresas":"J. Janonio g. 8-10, Panevėžys",
+    "Bylos Nr.":"27-41-16",
+    "Prašymo data":"2016-04-27 10:20",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":360,
+    "Adresas":"Nemuno g. 12-423, Panevėžys",
+    "Bylos Nr.":"27-42-16",
+    "Prašymo data":"2016-05-02 11:30",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.382624,55.72681249999999 ]
+    },
+    "properties": {
+    "Nr":361,
+    "Adresas":"Algirdo g. 92-515, Panevėžys",
+    "Bylos Nr.":"27-43-16",
+    "Prašymo data":"2016-05-02 13:10",
+    "Šeimos narių sk.":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3509845,55.736805 ]
+    },
+    "properties": {
+    "Nr":362,
+    "Adresas":"Teatro g. 20A, Panevėžys",
+    "Bylos Nr.":"27-44-16",
+    "Prašymo data":"2016-05-02 16:50",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3644966,55.7197012 ]
+    },
+    "properties": {
+    "Nr":363,
+    "Adresas":"Ramygalos g. 59-117, Panevėžys",
+    "Bylos Nr.":"27-45-16",
+    "Prašymo data":"2016-05-04 09:20",
+    "Šeimos narių sk.":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3503805,55.720301 ]
+    },
+    "properties": {
+    "Nr":364,
+    "Adresas":"Nemuno g. 12-417, Panevėžys",
+    "Bylos Nr.":"27-46-16",
+    "Prašymo data":"2016-05-18 15:40",
+    "Šeimos narių sk.":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3463256,55.7403304 ]
+    },
+    "properties": {
+    "Nr":365,
+    "Adresas":"Upės g. 35, Panevėžys",
+    "Bylos Nr.":"27-47-16",
+    "Prašymo data":"2016-05-20 11:30",
+    "Šeimos narių sk.":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.3588963,55.71823149999999 ]
+    },
+    "properties": {
+    "Nr":366,
+    "Adresas":"Danutės g. 40A-519, Panevėžys",
+    "Bylos Nr.":"27-48-16",
+    "Prašymo data":"2016-05-24 10:40",
+    "Šeimos narių sk.":1
+    }
+  }
+]
+}
