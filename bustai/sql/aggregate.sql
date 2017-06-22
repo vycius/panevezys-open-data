@@ -15,9 +15,9 @@ SELECT
     s.Gatvė                                                          AS Gatve,
     s.[Namo Nr.]                                                     AS Namas,
     s.[Buto Nr.]                                                     AS Butas,
-    ROUND(CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL), 2)                     AS Plotas,
+    CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL)                     AS Plotas,
     k.[Patalpų nuomos]                                               AS 'Kaina',
-    k.[Patalpų nuomos] / CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL) KainaM2,
+    ROUND(k.[Patalpų nuomos] / CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL), 2) KainaM2,
     s.Tipas,
     k.lat,
     k.lng
@@ -38,9 +38,9 @@ SELECT
     s.Gatvė                                                          AS Gatve,
     s.[Namo Nr.]                                                     AS Namas,
     s.[Buto Nr.]                                                     AS Butas,
-    ROUND(CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL), 2)                      AS Plotas,
+    CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL)                     AS Plotas,
     k.[Patalpų nuomos]                                               AS 'Kaina',
-    k.[Patalpų nuomos] / CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL) KainaM2,
+    ROUND(k.[Patalpų nuomos] / CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL), 2)  KainaM2,
     s.Tipas,
     k.lat,
     k.lng
