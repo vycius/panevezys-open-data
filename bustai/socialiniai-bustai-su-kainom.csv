@@ -1,90 +1,165 @@
 Id,Miestas,Gatve,Namas,Butas,Plotas,Kaina,KainaM2,Tipas,lat,lng
-1,Panevėžio m.,Algirdo g.,54,8,30,11.12,0.37066666666666664,Socialinis būstas,55.725082,24.373903
-2,Panevėžio m.,Aukštaičių g.,2,88,29,10.84,0.3737931034482759,Socialinis būstas,55.72578,24.384373
+1,Panevėžio m.,Algirdo g.,54,8,30,11.12,0.37,Socialinis būstas,55.725082,24.373903
+2,Panevėžio m.,Aukštaičių g.,2,88,29,10.84,0.37,Socialinis būstas,55.72578,24.384373
 3,Panevėžio m.,Aukštaičių g.,66,41,19,7.41,0.39,Socialinis būstas,55.7244,24.380138
-4,Panevėžio m.,Aukštaičių g.,76,2,33,11.73,0.35545454545454547,Socialinis būstas,55.72537,24.383211
-5,Panevėžio m.,Aukštaičių g.,76,32,49,17.63,0.3597959183673469,Socialinis būstas,55.72537,24.383211
-6,Panevėžio m.,Ateities g.,14,5,35,13.4,0.38285714285714284,Socialinis būstas,55.73209,24.318674
-7,Panevėžio m.,Ateities g.,18,15,49,18.6,0.37959183673469393,Socialinis būstas,55.73295,24.319693
-8,Panevėžio m.,Ateities g.,28,24,63,24.0,0.38095238095238093,Socialinis būstas,55.733376,24.317595
-9,Panevėžio m.,Ateities g.,34,41,50,18.95,0.379,Socialinis būstas,55.7339,24.31914
-13,Panevėžio m.,Beržų g.,21,41,30,11.03,0.36766666666666664,Socialinis būstas,55.718277,24.367788
-14,Panevėžio m.,Beržų g.,35,23,35,8.24,0.23542857142857143,Socialinis būstas,55.719482,24.37671
-15,Panevėžio m.,Beržų g.,35,25,17,5.46,0.3211764705882353,Socialinis būstas,55.719482,24.37671
-16,Panevėžio m.,Beržų g.,35,25,17,5.46,0.3211764705882353,Socialinis būstas,55.719482,24.37671
-18,Panevėžio m.,Danutės g.,40,43,50,19.7,0.39399999999999996,Socialinis būstas,55.717873,24.358763
-19,Panevėžio m.,Dariaus ir Girėno g.,20,29,35,13.36,0.3817142857142857,Socialinis būstas,55.733078,24.326586
-20,Panevėžio m.,Dariaus ir Girėno g.,39,59,36,13.56,0.3766666666666667,Socialinis būstas,55.73477,24.321154
-21,Panevėžio m.,Dariaus ir Girėno g.,9,43,32,12.3,0.384375,Socialinis būstas,55.731644,24.323627
-22,Panevėžio m.,Dariaus ir Girėno g.,9,91,33,12.39,0.3754545454545455,Socialinis būstas,55.731644,24.323627
-24,Panevėžio m.,Durpyno g.,4,36,28,11.17,0.3989285714285714,Socialinis būstas,55.718475,24.363749
-25,Panevėžio m.,Gražinos g.,3,59,30,10.28,0.3426666666666666,Socialinis būstas,55.730553,24.34393
-49,Panevėžio m.,Kaštonų g.,2,48,44,16.63,0.37795454545454543,Socialinis būstas,55.512577,24.303165
-50,Panevėžio m.,Klaipėdos g.,104,48,44,16.58,0.3768181818181818,Socialinis būstas,55.729412,24.331411
-51,Panevėžio m.,Klaipėdos g.,128,9,64,23.21,0.36265625,Socialinis būstas,55.730553,24.322742
-52,Panevėžio m.,Klaipėdos g.,34,17,49,20.08,0.4097959183673469,Socialinis būstas,55.72718,24.357275
-53,Panevėžio m.,Klaipėdos g.,40,5,27,8.98,0.3325925925925926,Socialinis būstas,55.727215,24.35529
-56,Panevėžio m.,Molainių g.,14,55,32,15.31,0.4784375,Socialinis būstas,55.7234,24.334732
-57,Panevėžio m.,Molainių g.,22,17,35,16.75,0.4785714285714286,Socialinis būstas,55.7236,24.333132
-58,Panevėžio m.,Molainių g.,28,44,36,16.84,0.4677777777777778,Socialinis būstas,55.722298,24.333162
-59,Panevėžio m.,Molainių g.,56,14,36,13.45,0.3736111111111111,Socialinis būstas,55.72373,24.328424
-60,Panevėžio m.,Molainių g.,56,42,31,11.69,0.37709677419354837,Socialinis būstas,55.72373,24.328424
-61,Panevėžio m.,Molainių g.,56,50,31,11.81,0.3809677419354839,Socialinis būstas,55.72373,24.328424
-62,Panevėžio m.,Marių g.,17,2,36,10.41,0.2891666666666667,Socialinis būstas,55.730774,24.386847
-63,Panevėžio m.,Marių g.,22,1,44,12.82,0.2913636363636364,Socialinis būstas,55.730427,24.387497
-68,Panevėžio m.,Margirio g.,11,15,56,27.59,0.4926785714285714,Socialinis būstas,55.717644,24.346548
-69,Panevėžio m.,Margirio g.,11,3,56,41.41,0.7394642857142857,Socialinis būstas,55.717644,24.346548
-70,Panevėžio m.,Margirio g.,11,6,56,27.71,0.4948214285714286,Socialinis būstas,55.717644,24.346548
-71,Panevėžio m.,Margirio g.,11,7,56,27.56,0.4921428571428571,Socialinis būstas,55.717644,24.346548
-72,Panevėžio m.,Margirio g.,11,9,56,27.72,0.495,Socialinis būstas,55.717644,24.346548
-73,Panevėžio m.,Margirio g.,9,10,42,21.12,0.5028571428571429,Socialinis būstas,55.718197,24.346867
-74,Panevėžio m.,Margirio g.,9,8,83,40.96,0.4934939759036145,Socialinis būstas,55.718197,24.346867
-75,Panevėžio m.,Nevėžio g.,36,51,26,9.04,0.34769230769230763,Socialinis būstas,55.74329,24.359346
-77,Panevėžio m.,Nemuno g.,80,56,38,15.34,0.4036842105263158,Socialinis būstas,55.73639,24.340313
-78,Panevėžio m.,Prekybos g.,21,20,60,25.1,0.41833333333333333,Socialinis būstas,55.74365,24.349283
-80,Panevėžio m.,Parko g.,37,137,45,12.8,0.28444444444444444,Socialinis būstas,55.73487,24.330986
-81,Panevėžio m.,Parko g.,45,2,36,14.51,0.40305555555555556,Socialinis būstas,55.7352,24.328644
-82,Panevėžio m.,Parko g.,51,18,64,23.11,0.36109375,Socialinis būstas,55.73569,24.326714
-83,Panevėžio m.,Parko g.,59,13,49,18.6,0.37959183673469393,Socialinis būstas,55.734974,24.325916
-84,Panevėžio m.,Parko g.,77,24,65,25.15,0.3869230769230769,Socialinis būstas,55.735855,24.322187
-85,Panevėžio m.,Parko g.,97,14,33,12.42,0.37636363636363634,Socialinis būstas,55.736015,24.318161
-86,Panevėžio m.,Ramygalos g.,112,31,36,13.13,0.3647222222222222,Socialinis būstas,55.71637,24.366901
-87,Panevėžio m.,Ramygalos g.,57,101,20,8.18,0.409,Socialinis būstas,55.720543,24.363329
-88,Panevėžio m.,Ramygalos g.,67,29,20,7.91,0.3955,Socialinis būstas,55.71898,24.36529
-89,Panevėžio m.,Ramygalos g.,67,64,29,12.15,0.4189655172413793,Socialinis būstas,55.71898,24.36529
-90,Panevėžio m.,Respublikos g.,17,17,70,20.29,0.28985714285714287,Socialinis būstas,55.729465,24.359507
-91,Panevėžio m.,Respublikos g.,57,6,34,16.23,0.4773529411764706,Socialinis būstas,55.735493,24.357016
-92,Panevėžio m.,Skaistakalnio g.,1,2,25,8.18,0.3272,Socialinis būstas,55.732506,24.37127
-93,Panevėžio m.,Sodų g.,18,33,29,11.6,0.39999999999999997,Socialinis būstas,55.724552,24.358831
-94,Panevėžio m.,Sodų g.,21,9,24,7.09,0.29541666666666666,Socialinis būstas,55.72429,24.359947
-96,Panevėžio m.,Statybininkų g.,18,23,35,13.31,0.3802857142857143,Socialinis būstas,55.732327,24.337559
-97,Panevėžio m.,Statybininkų g.,20,50,38,13.42,0.3531578947368421,Socialinis būstas,55.73184,24.335794
-98,Panevėžio m.,Statybininkų g.,20,74,38,13.43,0.3534210526315789,Socialinis būstas,55.73184,24.335794
-99,Panevėžio m.,Statybininkų g.,3,98,44,16.54,0.3759090909090909,Socialinis būstas,55.730637,24.336733
-135,Panevėžio m.,Staniūnų g.,79,18,37,14.46,0.3908108108108108,Socialinis būstas,55.71715,24.382988
-136,Panevėžio m.,Smėlynės g.,43,1,33,8.74,0.26484848484848483,Socialinis būstas,55.738182,24.36962
-137,Panevėžio m.,Smėlynės g.,43,4,60,15.21,0.2535,Socialinis būstas,55.738182,24.36962
-138,Panevėžio m.,Smėlynės g.,43,6,25,6.58,0.2632,Socialinis būstas,55.738182,24.36962
-139,Panevėžio m.,Smėlynės g.,55,29,44,15.35,0.3488636363636364,Socialinis būstas,55.739883,24.368725
-140,Panevėžio m.,Tulpių g.,6,11,30,11.46,0.382,Socialinis būstas,55.7289,24.345434
-141,Panevėžio m.,Ukmergės g.,19,9,43,12.51,0.29093023255813955,Socialinis būstas,55.728394,24.368332
-142,Panevėžio m.,Ukmergės g.,9,12,43,19.95,0.463953488372093,Socialinis būstas,55.72829,24.364702
-143,Panevėžio m.,Vilniaus g.,20,46,38,15.11,0.3976315789473684,Socialinis būstas,55.725864,24.371063
-144,Panevėžio m.,Vilties g.,24,13,39,13.61,0.34897435897435897,Socialinis būstas,55.741615,24.364866
-145,Panevėžio m.,Vilties g.,5,13,46,15.92,0.34608695652173915,Socialinis būstas,55.742832,24.359968
-146,Panevėžio m.,Vilties g.,5,23,26,9.05,0.3480769230769231,Socialinis būstas,55.742832,24.359968
-147,Panevėžio m.,Šv. Zitos g.,23,4,30,16.15,0.5383333333333333,Socialinis būstas,55.73316,24.366093
-148,Panevėžio m.,Žemaičių g.,19,12,28,10.01,0.3575,Socialinis būstas,55.723686,24.380936
-149,Panevėžio m.,Žemaičių g.,19,18,28,10.13,0.3617857142857143,Socialinis būstas,55.723686,24.380936
-150,Panevėžio m.,Žemaičių g.,19,64,51,18.01,0.3531372549019608,Socialinis būstas,55.723686,24.380936
-151,Panevėžio m.,Žemaičių g.,20,24,29,10.36,0.35724137931034483,Socialinis būstas,55.72385,24.384653
-152,Panevėžio m.,Žemaičių g.,20,33,28,10.22,0.36500000000000005,Socialinis būstas,55.72385,24.384653
-153,Panevėžio m.,Žemaičių g.,6,30,28,10.14,0.36214285714285716,Socialinis būstas,55.722137,24.379078
-156,Panevėžio m.,Dainavos g.,4,3,45,17.89,0.39755555555555555,Socialinis būstas,55.718254,24.354858
-157,Panevėžio m.,Projektuotojų g.,23,26,50,25.43,0.5085999999999999,Socialinis būstas,55.727016,24.32652
-158,Panevėžio m.,Kniaudiškių g.,10,7,40,19.61,0.49024999999999996,Socialinis būstas,55.72747,24.33205
-160,Panevėžio m.,Kniaudiškių g.,28,3,45,21.01,0.4668888888888889,Socialinis būstas,55.726517,24.331251
-161,Panevėžio m.,Kniaudiškių g.,45,50,51,20.0,0.39215686274509803,Socialinis būstas,55.725624,24.331089
-162,Panevėžio m.,Kniaudiškių g.,59,32,32,12.1,0.378125,Socialinis būstas,55.724934,24.327297
-163,Panevėžio m.,Kniaudiškių g.,65,52,53,26.02,0.4909433962264151,Socialinis būstas,55.72538,24.32346
-164,Panevėžio m.,Kniaudiškių g.,65,61,53,26.0,0.49056603773584906,Socialinis būstas,55.72538,24.32346
+4,Panevėžio m.,Aukštaičių g.,76,2,33,11.73,0.36,Socialinis būstas,55.72537,24.383211
+5,Panevėžio m.,Aukštaičių g.,76,32,49,17.63,0.36,Socialinis būstas,55.72537,24.383211
+6,Panevėžio m.,Ateities g.,14,5,35,13.4,0.38,Socialinis būstas,55.73209,24.318674
+7,Panevėžio m.,Ateities g.,18,15,49,18.6,0.38,Socialinis būstas,55.73295,24.319693
+8,Panevėžio m.,Ateities g.,28,24,63,24.0,0.38,Socialinis būstas,55.733376,24.317595
+9,Panevėžio m.,Ateities g.,34,41,50,18.95,0.38,Socialinis būstas,55.7339,24.31914
+10,Panevėžio m.,J. Basanavičiaus g.,1,96,29,,,Socialinis būstas,,
+11,Panevėžio m.,J. Basanavičiaus g.,52A,92,44,,,Socialinis būstas,,
+12,Panevėžio m.,J. Basanavičiaus g.,66,44,34,,,Socialinis būstas,,
+13,Panevėžio m.,Beržų g.,21,41,30,11.03,0.37,Socialinis būstas,55.718277,24.367788
+14,Panevėžio m.,Beržų g.,35,23,35,8.24,0.24,Socialinis būstas,55.719482,24.37671
+15,Panevėžio m.,Beržų g.,35,25,17,5.46,0.32,Socialinis būstas,55.719482,24.37671
+16,Panevėžio m.,Beržų g.,35,25,17,5.46,0.32,Socialinis būstas,55.719482,24.37671
+17,Panevėžio m.,F. Vaitkaus g.,9,73,30,,,Socialinis būstas,,
+18,Panevėžio m.,Danutės g.,40,43,50,19.7,0.39,Socialinis būstas,55.717873,24.358763
+19,Panevėžio m.,Dariaus ir Girėno g.,20,29,35,13.36,0.38,Socialinis būstas,55.733078,24.326586
+20,Panevėžio m.,Dariaus ir Girėno g.,39,59,36,13.56,0.38,Socialinis būstas,55.73477,24.321154
+21,Panevėžio m.,Dariaus ir Girėno g.,9,43,32,12.3,0.38,Socialinis būstas,55.731644,24.323627
+22,Panevėžio m.,Dariaus ir Girėno g.,9,91,33,12.39,0.38,Socialinis būstas,55.731644,24.323627
+23,Panevėžio m.,A. Smetonos g.,47,2,24,,,Socialinis būstas,,
+24,Panevėžio m.,Durpyno g.,4,36,28,11.17,0.4,Socialinis būstas,55.718475,24.363749
+25,Panevėžio m.,Gražinos g.,3,59,30,10.28,0.34,Socialinis būstas,55.730553,24.34393
+26,Panevėžio m.,J. Janonio g.,10,1,33,,,Socialinis būstas,,
+27,Panevėžio m.,J. Janonio g.,10,10,48,,,Socialinis būstas,,
+28,Panevėžio m.,J. Janonio g.,10,12,48,,,Socialinis būstas,,
+29,Panevėžio m.,J. Janonio g.,10,13,48,,,Socialinis būstas,,
+30,Panevėžio m.,J. Janonio g.,10,14,47,,,Socialinis būstas,,
+31,Panevėžio m.,J. Janonio g.,10,15,34,,,Socialinis būstas,,
+32,Panevėžio m.,J. Janonio g.,10,16,27,,,Socialinis būstas,,
+33,Panevėžio m.,J. Janonio g.,10,17,33,,,Socialinis būstas,,
+34,Panevėžio m.,J. Janonio g.,10,18,35,,,Socialinis būstas,,
+35,Panevėžio m.,J. Janonio g.,10,19,28,,,Socialinis būstas,,
+36,Panevėžio m.,J. Janonio g.,10,20,33,,,Socialinis būstas,,
+37,Panevėžio m.,J. Janonio g.,10,3,33,,,Socialinis būstas,,
+38,Panevėžio m.,J. Janonio g.,10,4,33,,,Socialinis būstas,,
+39,Panevėžio m.,J. Janonio g.,10,7,48,,,Socialinis būstas,,
+40,Panevėžio m.,J. Janonio g.,10,8,46,,,Socialinis būstas,,
+41,Panevėžio m.,J. Janonio g.,8,10,48,,,Socialinis būstas,,
+42,Panevėžio m.,J. Janonio g.,8,11,33,,,Socialinis būstas,,
+43,Panevėžio m.,J. Janonio g.,8,3,43,,,Socialinis būstas,,
+44,Panevėžio m.,J. Janonio g.,8,4,32,,,Socialinis būstas,,
+45,Panevėžio m.,J. Janonio g.,8,5,32,,,Socialinis būstas,,
+46,Panevėžio m.,J. Janonio g.,8,6,45,,,Socialinis būstas,,
+47,Panevėžio m.,J. Janonio g.,8,8,32,,,Socialinis būstas,,
+48,Panevėžio m.,J. Janonio g.,8,9,31,,,Socialinis būstas,,
+49,Panevėžio m.,Kaštonų g.,2,48,44,16.63,0.38,Socialinis būstas,55.512577,24.303165
+50,Panevėžio m.,Klaipėdos g.,104,48,44,16.58,0.38,Socialinis būstas,55.729412,24.331411
+51,Panevėžio m.,Klaipėdos g.,128,9,64,23.21,0.36,Socialinis būstas,55.730553,24.322742
+52,Panevėžio m.,Klaipėdos g.,34,17,49,20.08,0.41,Socialinis būstas,55.72718,24.357275
+53,Panevėžio m.,Klaipėdos g.,40,5,27,8.98,0.33,Socialinis būstas,55.727215,24.35529
+54,Panevėžio m.,Liepų al.,17,9,15,,,Socialinis būstas,,
+55,Panevėžio m.,Liepų al.,7A,1,28,,,Socialinis būstas,,
+56,Panevėžio m.,Molainių g.,14,55,32,15.31,0.48,Socialinis būstas,55.7234,24.334732
+57,Panevėžio m.,Molainių g.,22,17,35,16.75,0.48,Socialinis būstas,55.7236,24.333132
+58,Panevėžio m.,Molainių g.,28,44,36,16.84,0.47,Socialinis būstas,55.722298,24.333162
+59,Panevėžio m.,Molainių g.,56,14,36,13.45,0.37,Socialinis būstas,55.72373,24.328424
+60,Panevėžio m.,Molainių g.,56,42,31,11.69,0.38,Socialinis būstas,55.72373,24.328424
+61,Panevėžio m.,Molainių g.,56,50,31,11.81,0.38,Socialinis būstas,55.72373,24.328424
+62,Panevėžio m.,Marių g.,17,2,36,10.41,0.29,Socialinis būstas,55.730774,24.386847
+63,Panevėžio m.,Marių g.,22,1,44,12.82,0.29,Socialinis būstas,55.730427,24.387497
+64,Panevėžio m.,Marijonų g.,29,10,20,,,Socialinis būstas,,
+65,Panevėžio m.,Marijonų g.,29,13,30,,,Socialinis būstas,,
+66,Panevėžio m.,Marijonų g.,29,34,20,,,Socialinis būstas,,
+67,Panevėžio m.,Marijonų g.,29,97,30,,,Socialinis būstas,,
+68,Panevėžio m.,Margirio g.,11,15,56,27.59,0.49,Socialinis būstas,55.717644,24.346548
+69,Panevėžio m.,Margirio g.,11,3,56,41.41,0.74,Socialinis būstas,55.717644,24.346548
+70,Panevėžio m.,Margirio g.,11,6,56,27.71,0.49,Socialinis būstas,55.717644,24.346548
+71,Panevėžio m.,Margirio g.,11,7,56,27.56,0.49,Socialinis būstas,55.717644,24.346548
+72,Panevėžio m.,Margirio g.,11,9,56,27.72,0.49,Socialinis būstas,55.717644,24.346548
+73,Panevėžio m.,Margirio g.,9,10,42,21.12,0.5,Socialinis būstas,55.718197,24.346867
+74,Panevėžio m.,Margirio g.,9,8,83,40.96,0.49,Socialinis būstas,55.718197,24.346867
+75,Panevėžio m.,Nevėžio g.,36,51,26,9.04,0.35,Socialinis būstas,55.74329,24.359346
+76,Panevėžio m.,Nemuno g.,16,54,35,,,Socialinis būstas,,
+77,Panevėžio m.,Nemuno g.,80,56,38,15.34,0.4,Socialinis būstas,55.73639,24.340313
+78,Panevėžio m.,Prekybos g.,21,20,60,25.1,0.42,Socialinis būstas,55.74365,24.349283
+79,Panevėžio m.,Prekybos g.,3,20,49,,,Socialinis būstas,,
+80,Panevėžio m.,Parko g.,37,137,45,12.8,0.28,Socialinis būstas,55.73487,24.330986
+81,Panevėžio m.,Parko g.,45,2,36,14.51,0.4,Socialinis būstas,55.7352,24.328644
+82,Panevėžio m.,Parko g.,51,18,64,23.11,0.36,Socialinis būstas,55.73569,24.326714
+83,Panevėžio m.,Parko g.,59,13,49,18.6,0.38,Socialinis būstas,55.734974,24.325916
+84,Panevėžio m.,Parko g.,77,24,65,25.15,0.39,Socialinis būstas,55.735855,24.322187
+85,Panevėžio m.,Parko g.,97,14,33,12.42,0.38,Socialinis būstas,55.736015,24.318161
+86,Panevėžio m.,Ramygalos g.,112,31,36,13.13,0.36,Socialinis būstas,55.71637,24.366901
+87,Panevėžio m.,Ramygalos g.,57,101,20,8.18,0.41,Socialinis būstas,55.720543,24.363329
+88,Panevėžio m.,Ramygalos g.,67,29,20,7.91,0.4,Socialinis būstas,55.71898,24.36529
+89,Panevėžio m.,Ramygalos g.,67,64,29,12.15,0.42,Socialinis būstas,55.71898,24.36529
+90,Panevėžio m.,Respublikos g.,17,17,70,20.29,0.29,Socialinis būstas,55.729465,24.359507
+91,Panevėžio m.,Respublikos g.,57,6,34,16.23,0.48,Socialinis būstas,55.735493,24.357016
+92,Panevėžio m.,Skaistakalnio g.,1,2,25,8.18,0.33,Socialinis būstas,55.732506,24.37127
+93,Panevėžio m.,Sodų g.,18,33,29,11.6,0.4,Socialinis būstas,55.724552,24.358831
+94,Panevėžio m.,Sodų g.,21,9,24,7.09,0.3,Socialinis būstas,55.72429,24.359947
+95,Panevėžio m.,Sodų g.,50,24,29,,,Socialinis būstas,,
+96,Panevėžio m.,Statybininkų g.,18,23,35,13.31,0.38,Socialinis būstas,55.732327,24.337559
+97,Panevėžio m.,Statybininkų g.,20,50,38,13.42,0.35,Socialinis būstas,55.73184,24.335794
+98,Panevėžio m.,Statybininkų g.,20,74,38,13.43,0.35,Socialinis būstas,55.73184,24.335794
+99,Panevėžio m.,Statybininkų g.,3,98,44,16.54,0.38,Socialinis būstas,55.730637,24.336733
+100,Panevėžio m.,Staniūnų g.,70,10,59,,,Socialinis būstas,,
+101,Panevėžio m.,Staniūnų g.,70,11,60,,,Socialinis būstas,,
+102,Panevėžio m.,Staniūnų g.,70,12,69,,,Socialinis būstas,,
+103,Panevėžio m.,Staniūnų g.,70,13,61,,,Socialinis būstas,,
+104,Panevėžio m.,Staniūnų g.,70,14,47,,,Socialinis būstas,,
+105,Panevėžio m.,Staniūnų g.,70,16,62,,,Socialinis būstas,,
+106,Panevėžio m.,Staniūnų g.,70,17,56,,,Socialinis būstas,,
+107,Panevėžio m.,Staniūnų g.,70,18,59,,,Socialinis būstas,,
+108,Panevėžio m.,Staniūnų g.,70,20,69,,,Socialinis būstas,,
+109,Panevėžio m.,Staniūnų g.,70,23,79,,,Socialinis būstas,,
+110,Panevėžio m.,Staniūnų g.,70,25,56,,,Socialinis būstas,,
+111,Panevėžio m.,Staniūnų g.,70,26,59,,,Socialinis būstas,,
+112,Panevėžio m.,Staniūnų g.,70,27,58,,,Socialinis būstas,,
+113,Panevėžio m.,Staniūnų g.,70,28,69,,,Socialinis būstas,,
+114,Panevėžio m.,Staniūnų g.,70,29,61,,,Socialinis būstas,,
+115,Panevėžio m.,Staniūnų g.,70,30,46,,,Socialinis būstas,,
+116,Panevėžio m.,Staniūnų g.,70,31,47,,,Socialinis būstas,,
+117,Panevėžio m.,Staniūnų g.,70,32,61,,,Socialinis būstas,,
+118,Panevėžio m.,Staniūnų g.,70,33,55,,,Socialinis būstas,,
+119,Panevėžio m.,Staniūnų g.,70,35,59,,,Socialinis būstas,,
+120,Panevėžio m.,Staniūnų g.,70,37,61,,,Socialinis būstas,,
+121,Panevėžio m.,Staniūnų g.,70,39,47,,,Socialinis būstas,,
+122,Panevėžio m.,Staniūnų g.,70,4,74,,,Socialinis būstas,,
+123,Panevėžio m.,Staniūnų g.,70,41,56,,,Socialinis būstas,,
+124,Panevėžio m.,Staniūnų g.,70,42,58,,,Socialinis būstas,,
+125,Panevėžio m.,Staniūnų g.,70,43,58,,,Socialinis būstas,,
+126,Panevėžio m.,Staniūnų g.,70,44,69,,,Socialinis būstas,,
+127,Panevėžio m.,Staniūnų g.,70,46,46,,,Socialinis būstas,,
+128,Panevėžio m.,Staniūnų g.,70,48,61,,,Socialinis būstas,,
+129,Panevėžio m.,Staniūnų g.,70,6,91,,,Socialinis būstas,,
+130,Panevėžio m.,Staniūnų g.,70,7,66,,,Socialinis būstas,,
+131,Panevėžio m.,Staniūnų g.,70,8,83,,,Socialinis būstas,,
+132,Panevėžio m.,Staniūnų g.,70,9,56,,,Socialinis būstas,,
+133,Panevėžio m.,Staniūnų g.,72C,305,35,,,Socialinis būstas,,
+134,Panevėžio m.,Staniūnų g.,77,311,32,,,Socialinis būstas,,
+135,Panevėžio m.,Staniūnų g.,79,18,37,14.46,0.39,Socialinis būstas,55.71715,24.382988
+136,Panevėžio m.,Smėlynės g.,43,1,33,8.74,0.26,Socialinis būstas,55.738182,24.36962
+137,Panevėžio m.,Smėlynės g.,43,4,60,15.21,0.25,Socialinis būstas,55.738182,24.36962
+138,Panevėžio m.,Smėlynės g.,43,6,25,6.58,0.26,Socialinis būstas,55.738182,24.36962
+139,Panevėžio m.,Smėlynės g.,55,29,44,15.35,0.35,Socialinis būstas,55.739883,24.368725
+140,Panevėžio m.,Tulpių g.,6,11,30,11.46,0.38,Socialinis būstas,55.7289,24.345434
+141,Panevėžio m.,Ukmergės g.,19,9,43,12.51,0.29,Socialinis būstas,55.728394,24.368332
+142,Panevėžio m.,Ukmergės g.,9,12,43,19.95,0.46,Socialinis būstas,55.72829,24.364702
+143,Panevėžio m.,Vilniaus g.,20,46,38,15.11,0.4,Socialinis būstas,55.725864,24.371063
+144,Panevėžio m.,Vilties g.,24,13,39,13.61,0.35,Socialinis būstas,55.741615,24.364866
+145,Panevėžio m.,Vilties g.,5,13,46,15.92,0.35,Socialinis būstas,55.742832,24.359968
+146,Panevėžio m.,Vilties g.,5,23,26,9.05,0.35,Socialinis būstas,55.742832,24.359968
+147,Panevėžio m.,Šv. Zitos g.,23,4,30,16.15,0.54,Socialinis būstas,55.73316,24.366093
+148,Panevėžio m.,Žemaičių g.,19,12,28,10.01,0.36,Socialinis būstas,55.723686,24.380936
+149,Panevėžio m.,Žemaičių g.,19,18,28,10.13,0.36,Socialinis būstas,55.723686,24.380936
+150,Panevėžio m.,Žemaičių g.,19,64,51,18.01,0.35,Socialinis būstas,55.723686,24.380936
+151,Panevėžio m.,Žemaičių g.,20,24,29,10.36,0.36,Socialinis būstas,55.72385,24.384653
+152,Panevėžio m.,Žemaičių g.,20,33,28,10.22,0.37,Socialinis būstas,55.72385,24.384653
+153,Panevėžio m.,Žemaičių g.,6,30,28,10.14,0.36,Socialinis būstas,55.722137,24.379078
+154,Panevėžio m.,Žvaigždžių g.,20,25,65,,,Socialinis būstas,,
+155,Panevėžio m.,J. Žemgulio g.,33A,3,63,,,Socialinis būstas,,
+156,Panevėžio m.,Dainavos g.,4,3,45,17.89,0.4,Socialinis būstas,55.718254,24.354858
+157,Panevėžio m.,Projektuotojų g.,23,26,50,25.43,0.51,Socialinis būstas,55.727016,24.32652
+158,Panevėžio m.,Kniaudiškių g.,10,7,40,19.61,0.49,Socialinis būstas,55.72747,24.33205
+159,Panevėžio m.,Kniaudiškių g.,17,35A,36,,,Socialinis būstas,,
+160,Panevėžio m.,Kniaudiškių g.,28,3,45,21.01,0.47,Socialinis būstas,55.726517,24.331251
+161,Panevėžio m.,Kniaudiškių g.,45,50,51,20.0,0.39,Socialinis būstas,55.725624,24.331089
+162,Panevėžio m.,Kniaudiškių g.,59,32,32,12.1,0.38,Socialinis būstas,55.724934,24.327297
+163,Panevėžio m.,Kniaudiškių g.,65,52,53,26.02,0.49,Socialinis būstas,55.72538,24.32346
+164,Panevėžio m.,Kniaudiškių g.,65,61,53,26.0,0.49,Socialinis būstas,55.72538,24.32346

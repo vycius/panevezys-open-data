@@ -15,7 +15,7 @@ SELECT
     s.Gatvė                                                          AS Gatve,
     s.[Namo Nr.]                                                     AS Namas,
     s.[Buto Nr.]                                                     AS Butas,
-    CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL)                      AS Plotas,
+    ROUND(CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL), 2)                     AS Plotas,
     k.[Patalpų nuomos]                                               AS 'Kaina',
     k.[Patalpų nuomos] / CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL) KainaM2,
     s.Tipas,
@@ -38,7 +38,7 @@ SELECT
     s.Gatvė                                                          AS Gatve,
     s.[Namo Nr.]                                                     AS Namas,
     s.[Buto Nr.]                                                     AS Butas,
-    CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL)                      AS Plotas,
+    ROUND(CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL), 2)                      AS Plotas,
     k.[Patalpų nuomos]                                               AS 'Kaina',
     k.[Patalpų nuomos] / CAST(REPLACE(s.Plotas, '"', '') AS DECIMAL) KainaM2,
     s.Tipas,
@@ -46,7 +46,7 @@ SELECT
     k.lng
 FROM
     socialiniai s
-JOIN
+LEFT JOIN
     kainos k
 ON
     s.Gatvė = k.Gatvė || ' g.'
